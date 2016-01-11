@@ -1,15 +1,29 @@
-﻿#EXTM3U 
-#EXTINF:0, TRT 1 HD http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:0, Kanal 7 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
-#EXTINF:0, Star TV http://188.72.131.226/star.m3u8
-#EXTINF:0, A Haber HD http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
-#EXTINF:0, Haber TÜRK http://live-ciner.mncdn.net/haberturk/haberturk1/playlist.m3u8
-#EXTINF:0, Minika GO http://trkvz-m.ercdn.net/trkvz-temp/minikagom.m3u8
-#EXTINF:0, Mekke TV http://livede.gostream.nl/mekke/mekke/HasBahCa.m3u8
-#EXTINF:0, TRT Haber HD http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
-#EXTINF:0, Fox HD http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
-#EXTINF:0, Show HD http://mn-l.mncdn.com/showtv/showtv2/chunklist_w555123943.m3u8
-#EXTINF:0, Minika Cocuk http://trkvz-m.ercdn.net/trkvz-temp/minikagococukm.m3u8
-#EXTINF:0, TRT HD http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:0, ATV HD http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:0, TRT Türk http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+﻿#EXTM3U
+#EXTINF:-1,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,Kanal 7
+http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
+#EXTINF:-1,Star TV
+http://188.72.131.226/star.m3u8
+#EXTINF:-1,A Haber HD
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+#EXTINF:-1,Haber TÜRK
+http://live-ciner.mncdn.net/haberturk/haberturk1/playlist.m3u8
+#EXTINF:-1,Minika GO
+http://trkvz-m.ercdn.net/trkvz-temp/minikagom.m3u8
+#EXTINF:-1,Mekke TV
+http://livede.gostream.nl/mekke/mekke/HasBahCa.m3u8
+#EXTINF:-1,TRT Haber HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+#EXTINF:-1,Fox HD
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1,Show HD
+http://mn-l.mncdn.com/showtv/showtv2/chunklist_w555123943.m3u8
+#EXTINF:-1,Minika Cocuk
+http://trkvz-m.ercdn.net/trkvz-temp/minikagococukm.m3u8
+#EXTINF:-1,TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+#EXTINF:-1,ATV HD
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,TRT Türk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
