@@ -180,64 +180,64 @@
     <display-name lang="tr">HABERTURK HD</display-name>
     <url>http://www.dsmart.com.tr</url>
   </channel>
-  <programme start="20191215043300 +0200" stop="20191215043500 +0200" channel="TRT1.tr">
+  <programme start="20191215050800 +0200" stop="20191215051000 +0200" channel="TRT1.tr">
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
-  <programme start="20191215043500 +0200" stop="20191215050500 +0200" channel="TRT1.tr">
-    <title lang="tr">Ömür Dediğin</title>
-  </programme>
-  <programme start="20191215050500 +0200" stop="20191215060000 +0200" channel="TRT1.tr">
-    <title lang="tr">6 Mantı</title>
-  </programme>
-  <programme start="20191215060000 +0200" stop="20191215082500 +0200" channel="TRT1.tr">
-    <title lang="tr">Beni Böyle Sev</title>
-  </programme>
-  <programme start="20191215082500 +0200" stop="20191215083500 +0200" channel="TRT1.tr">
-    <title lang="tr">1'De Bugün</title>
-  </programme>
-  <programme start="20191215083500 +0200" stop="20191215114000 +0200" channel="TRT1.tr">
-    <title lang="tr">Diriliş "Ertuğrul"</title>
-  </programme>
-  <programme start="20191215114000 +0200" stop="20191215115000 +0200" channel="TRT1.tr">
-    <title lang="tr">1'De Bugün</title>
-  </programme>
-  <programme start="20191215115000 +0200" stop="20191215130000 +0200" channel="TRT1.tr">
-    <title lang="tr">Enine Boyuna</title>
-  </programme>
-  <programme start="20191215130000 +0200" stop="20191215140500 +0200" channel="TRT1.tr">
-    <title lang="tr">Savaşın Efsaneleri</title>
-  </programme>
-  <programme start="20191215140500 +0200" stop="20191215173000 +0200" channel="TRT1.tr">
-    <title lang="tr">Vuslat</title>
-  </programme>
-  <programme start="20191215173000 +0200" stop="20191215190000 +0200" channel="TRT1.tr">
-    <title lang="tr">Tozkoparan</title>
-  </programme>
-  <programme start="20191215190000 +0200" stop="20191215200000 +0200" channel="TRT1.tr">
-    <title lang="tr">Ana Haber</title>
-  </programme>
-  <programme start="20191215200000 +0200" stop="20191216001500 +0200" channel="TRT1.tr">
-    <title lang="tr">Şampiyon</title>
-  </programme>
-  <programme start="20191216001500 +0200" stop="20191216015500 +0200" channel="TRT1.tr">
-    <title lang="tr">Ev Sineması Kuşağı "Bünyamin"</title>
-  </programme>
-  <programme start="20191216015500 +0200" stop="20191216041500 +0200" channel="TRT1.tr">
-    <title lang="tr">Diriliş "Ertuğrul"</title>
-  </programme>
-  <programme start="20191216050800 +0200" stop="20191216051000 +0200" channel="TRT1.tr">
-    <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
-  </programme>
-  <programme start="20191216041500 +0200" stop="20191216051000 +0200" channel="TRT1.tr">
-    <title lang="tr">6 Mantı</title>
-  </programme>
-  <programme start="20191216051000 +0200" stop="20191216060500 +0200" channel="TRT1.tr">
+  <programme start="20191215051000 +0200" stop="20191215060500 +0200" channel="TRT1.tr">
     <title lang="tr">İncir Ağacı</title>
   </programme>
-  <programme start="20191216060500 +0200" stop="20191216090000 +0200" channel="TRT1.tr">
+  <programme start="20191215060500 +0200" stop="20191215090000 +0200" channel="TRT1.tr">
     <title lang="tr">Şampiyon</title>
   </programme>
-  <programme start="20191216090000 +0200" stop="20191216113500 +0200" channel="TRT1.tr">
+  <programme start="20191215090000 +0200" stop="20191215113500 +0200" channel="TRT1.tr">
+    <title lang="tr">Baba Candır</title>
+  </programme>
+  <programme start="20191215113500 +0200" stop="20191215114500 +0200" channel="TRT1.tr">
+    <title lang="tr">1'De Bugün</title>
+  </programme>
+  <programme start="20191215114500 +0200" stop="20191215130000 +0200" channel="TRT1.tr">
+    <title lang="tr">Hapishanedeki Çiçek</title>
+  </programme>
+  <programme start="20191215130000 +0200" stop="20191215151500 +0200" channel="TRT1.tr">
+    <title lang="tr">Aileler Yarışıyor</title>
+  </programme>
+  <programme start="20191215151500 +0200" stop="20191215170500 +0200" channel="TRT1.tr">
+    <title lang="tr">İncir Ağacı</title>
+  </programme>
+  <programme start="20191215170500 +0200" stop="20191215171500 +0200" channel="TRT1.tr">
+    <title lang="tr">1'De Bugün</title>
+  </programme>
+  <programme start="20191215171500 +0200" stop="20191215190000 +0200" channel="TRT1.tr">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20191215190000 +0200" stop="20191215195500 +0200" channel="TRT1.tr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20191215195500 +0200" stop="20191215200000 +0200" channel="TRT1.tr">
+    <title lang="tr">Doğrusu Ne?</title>
+  </programme>
+  <programme start="20191215200000 +0200" stop="20191216001500 +0200" channel="TRT1.tr">
+    <title lang="tr">Vuslat</title>
+  </programme>
+  <programme start="20191216001500 +0200" stop="20191216022000 +0200" channel="TRT1.tr">
+    <title lang="tr">Türk Sineması "Kardeşim İçin" Der'a""</title>
+  </programme>
+  <programme start="20191216022000 +0200" stop="20191216023000 +0200" channel="TRT1.tr">
+    <title lang="tr">1'De Bugün</title>
+  </programme>
+  <programme start="20191216044300 +0200" stop="20191216044500 +0200" channel="TRT1.tr">
+    <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
+  </programme>
+  <programme start="20191216023000 +0200" stop="20191216044500 +0200" channel="TRT1.tr">
+    <title lang="tr">Şampiyon</title>
+  </programme>
+  <programme start="20191216044500 +0200" stop="20191216054000 +0200" channel="TRT1.tr">
+    <title lang="tr">İncir Ağacı</title>
+  </programme>
+  <programme start="20191216054000 +0200" stop="20191216085000 +0200" channel="TRT1.tr">
+    <title lang="tr">Şampiyon</title>
+  </programme>
+  <programme start="20191216085000 +0200" stop="20191216113500 +0200" channel="TRT1.tr">
     <title lang="tr">Baba Candır</title>
   </programme>
   <programme start="20191216113500 +0200" stop="20191216114500 +0200" channel="TRT1.tr">
@@ -265,24 +265,21 @@
     <title lang="tr">Doğrusu Ne?</title>
   </programme>
   <programme start="20191216200000 +0200" stop="20191217001500 +0200" channel="TRT1.tr">
+    <title lang="tr">Elimi Bırakma</title>
+  </programme>
+  <programme start="20191217001500 +0200" stop="20191217025000 +0200" channel="TRT1.tr">
     <title lang="tr">Vuslat</title>
   </programme>
-  <programme start="20191217001500 +0200" stop="20191217022000 +0200" channel="TRT1.tr">
-    <title lang="tr">Türk Sineması "Kardeşim İçin" Der'a""</title>
-  </programme>
-  <programme start="20191217022000 +0200" stop="20191217023000 +0200" channel="TRT1.tr">
-    <title lang="tr">1'De Bugün</title>
-  </programme>
-  <programme start="20191217044300 +0200" stop="20191217044500 +0200" channel="TRT1.tr">
+  <programme start="20191217045800 +0200" stop="20191217050000 +0200" channel="TRT1.tr">
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
-  <programme start="20191217023000 +0200" stop="20191217044500 +0200" channel="TRT1.tr">
+  <programme start="20191217025000 +0200" stop="20191217050000 +0200" channel="TRT1.tr">
     <title lang="tr">Şampiyon</title>
   </programme>
-  <programme start="20191217044500 +0200" stop="20191217054000 +0200" channel="TRT1.tr">
+  <programme start="20191217050000 +0200" stop="20191217055500 +0200" channel="TRT1.tr">
     <title lang="tr">İncir Ağacı</title>
   </programme>
-  <programme start="20191217054000 +0200" stop="20191217085000 +0200" channel="TRT1.tr">
+  <programme start="20191217055500 +0200" stop="20191217085000 +0200" channel="TRT1.tr">
     <title lang="tr">Şampiyon</title>
   </programme>
   <programme start="20191217085000 +0200" stop="20191217113500 +0200" channel="TRT1.tr">
@@ -313,24 +310,27 @@
     <title lang="tr">Doğrusu Ne?</title>
   </programme>
   <programme start="20191217200000 +0200" stop="20191218001500 +0200" channel="TRT1.tr">
-    <title lang="tr">Elimi Bırakma</title>
+    <title lang="tr">Benim Adım Melek</title>
   </programme>
-  <programme start="20191218001500 +0200" stop="20191218025000 +0200" channel="TRT1.tr">
-    <title lang="tr">Vuslat</title>
+  <programme start="20191218001500 +0200" stop="20191218020000 +0200" channel="TRT1.tr">
+    <title lang="tr">Aileler Yarışıyor</title>
   </programme>
-  <programme start="20191218045800 +0200" stop="20191218050000 +0200" channel="TRT1.tr">
+  <programme start="20191218020000 +0200" stop="20191218042000 +0200" channel="TRT1.tr">
+    <title lang="tr">Şampiyon</title>
+  </programme>
+  <programme start="20191218042000 +0200" stop="20191218043000 +0200" channel="TRT1.tr">
+    <title lang="tr">1'De Bugün</title>
+  </programme>
+  <programme start="20191218052300 +0200" stop="20191218052500 +0200" channel="TRT1.tr">
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
-  <programme start="20191218025000 +0200" stop="20191218050000 +0200" channel="TRT1.tr">
-    <title lang="tr">Şampiyon</title>
-  </programme>
-  <programme start="20191218050000 +0200" stop="20191218055500 +0200" channel="TRT1.tr">
+  <programme start="20191218043000 +0200" stop="20191218052500 +0200" channel="TRT1.tr">
     <title lang="tr">İncir Ağacı</title>
   </programme>
-  <programme start="20191218055500 +0200" stop="20191218085000 +0200" channel="TRT1.tr">
-    <title lang="tr">Şampiyon</title>
+  <programme start="20191218052500 +0200" stop="20191218085500 +0200" channel="TRT1.tr">
+    <title lang="tr">Benim Adım Melek</title>
   </programme>
-  <programme start="20191218085000 +0200" stop="20191218113500 +0200" channel="TRT1.tr">
+  <programme start="20191218085500 +0200" stop="20191218113500 +0200" channel="TRT1.tr">
     <title lang="tr">Baba Candır</title>
   </programme>
   <programme start="20191218113500 +0200" stop="20191218114500 +0200" channel="TRT1.tr">
@@ -357,28 +357,25 @@
   <programme start="20191218195500 +0200" stop="20191218200000 +0200" channel="TRT1.tr">
     <title lang="tr">Doğrusu Ne?</title>
   </programme>
-  <programme start="20191218200000 +0200" stop="20191219001500 +0200" channel="TRT1.tr">
+  <programme start="20191218200000 +0200" stop="20191219003000 +0200" channel="TRT1.tr">
+    <title lang="tr">3'Te 3 Tarih</title>
+  </programme>
+  <programme start="20191219003000 +0200" stop="20191219032500 +0200" channel="TRT1.tr">
     <title lang="tr">Benim Adım Melek</title>
   </programme>
-  <programme start="20191219001500 +0200" stop="20191219020000 +0200" channel="TRT1.tr">
-    <title lang="tr">Aileler Yarışıyor</title>
+  <programme start="20191219032500 +0200" stop="20191219041000 +0200" channel="TRT1.tr">
+    <title lang="tr">Sultanın Yolculuğu</title>
   </programme>
-  <programme start="20191219020000 +0200" stop="20191219042000 +0200" channel="TRT1.tr">
-    <title lang="tr">Şampiyon</title>
-  </programme>
-  <programme start="20191219042000 +0200" stop="20191219043000 +0200" channel="TRT1.tr">
-    <title lang="tr">1'De Bugün</title>
-  </programme>
-  <programme start="20191219052300 +0200" stop="20191219052500 +0200" channel="TRT1.tr">
+  <programme start="20191219050300 +0200" stop="20191219050500 +0200" channel="TRT1.tr">
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
-  <programme start="20191219043000 +0200" stop="20191219052500 +0200" channel="TRT1.tr">
+  <programme start="20191219041000 +0200" stop="20191219050500 +0200" channel="TRT1.tr">
     <title lang="tr">İncir Ağacı</title>
   </programme>
-  <programme start="20191219052500 +0200" stop="20191219085500 +0200" channel="TRT1.tr">
+  <programme start="20191219050500 +0200" stop="20191219083500 +0200" channel="TRT1.tr">
     <title lang="tr">Benim Adım Melek</title>
   </programme>
-  <programme start="20191219085500 +0200" stop="20191219113500 +0200" channel="TRT1.tr">
+  <programme start="20191219083500 +0200" stop="20191219113500 +0200" channel="TRT1.tr">
     <title lang="tr">Baba Candır</title>
   </programme>
   <programme start="20191219113500 +0200" stop="20191219114500 +0200" channel="TRT1.tr">
@@ -405,146 +402,155 @@
   <programme start="20191219195500 +0200" stop="20191219200000 +0200" channel="TRT1.tr">
     <title lang="tr">Doğrusu Ne?</title>
   </programme>
-  <programme start="20191219200000 +0200" stop="20191220003000 +0200" channel="TRT1.tr">
-    <title lang="tr">3'Te 3 Tarih</title>
+  <programme start="20191219200000 +0200" stop="20191220001500 +0200" channel="TRT1.tr">
+    <title lang="tr">Payitaht "Abdülhamid"</title>
   </programme>
-  <programme start="20191220003000 +0200" stop="20191220032500 +0200" channel="TRT1.tr">
-    <title lang="tr">Benim Adım Melek</title>
+  <programme start="20191220001500 +0200" stop="20191220013000 +0200" channel="TRT1.tr">
+    <title lang="tr">Pelin Çift İle Gündem Ötesi</title>
   </programme>
-  <programme start="20191220032500 +0200" stop="20191220041000 +0200" channel="TRT1.tr">
-    <title lang="tr">Sultanın Yolculuğu</title>
-  </programme>
-  <programme start="20191220050300 +0200" stop="20191220050500 +0200" channel="TRT1.tr">
-    <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
-  </programme>
-  <programme start="20191220041000 +0200" stop="20191220050500 +0200" channel="TRT1.tr">
-    <title lang="tr">İncir Ağacı</title>
-  </programme>
-  <programme start="20191220050500 +0200" stop="20191220083500 +0200" channel="TRT1.tr">
-    <title lang="tr">Benim Adım Melek</title>
-  </programme>
-  <programme start="20191220083500 +0200" stop="20191220113500 +0200" channel="TRT1.tr">
+  <programme start="20191220013000 +0200" stop="20191220033000 +0200" channel="TRT1.tr">
     <title lang="tr">Baba Candır</title>
   </programme>
-  <programme start="20191220113500 +0200" stop="20191220114500 +0200" channel="TRT1.tr">
+  <programme start="20191220060800 +0200" stop="20191220061000 +0200" channel="TRT1.tr">
+    <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
+  </programme>
+  <programme start="20191220033000 +0200" stop="20191220061000 +0200" channel="TRT1.tr">
+    <title lang="tr">Benim Adım Melek</title>
+  </programme>
+  <programme start="20191220061000 +0200" stop="20191220064000 +0200" channel="TRT1.tr">
+    <title lang="tr">Ömür Dediğin</title>
+  </programme>
+  <programme start="20191220064000 +0200" stop="20191220075000 +0200" channel="TRT1.tr">
+    <title lang="tr">6 Mantı</title>
+  </programme>
+  <programme start="20191220075000 +0200" stop="20191220101500 +0200" channel="TRT1.tr">
+    <title lang="tr">Beni Böyle Sev</title>
+  </programme>
+  <programme start="20191220101500 +0200" stop="20191220102500 +0200" channel="TRT1.tr">
     <title lang="tr">1'De Bugün</title>
   </programme>
-  <programme start="20191220114500 +0200" stop="20191220130000 +0200" channel="TRT1.tr">
-    <title lang="tr">Hapishanedeki Çiçek</title>
+  <programme start="20191220102500 +0200" stop="20191220115500 +0200" channel="TRT1.tr">
+    <title lang="tr">Tozkoparan</title>
   </programme>
-  <programme start="20191220130000 +0200" stop="20191220151500 +0200" channel="TRT1.tr">
-    <title lang="tr">Aileler Yarışıyor</title>
+  <programme start="20191220115500 +0200" stop="20191220152000 +0200" channel="TRT1.tr">
+    <title lang="tr">Yerli Dizi</title>
   </programme>
-  <programme start="20191220151500 +0200" stop="20191220170500 +0200" channel="TRT1.tr">
-    <title lang="tr">İncir Ağacı</title>
-  </programme>
-  <programme start="20191220170500 +0200" stop="20191220171500 +0200" channel="TRT1.tr">
+  <programme start="20191220152000 +0200" stop="20191220153000 +0200" channel="TRT1.tr">
     <title lang="tr">1'De Bugün</title>
   </programme>
-  <programme start="20191220171500 +0200" stop="20191220190000 +0200" channel="TRT1.tr">
-    <title lang="tr">Seksenler</title>
+  <programme start="20191220153000 +0200" stop="20191220190000 +0200" channel="TRT1.tr">
+    <title lang="tr">Yerli Dizi</title>
   </programme>
-  <programme start="20191220190000 +0200" stop="20191220195500 +0200" channel="TRT1.tr">
+  <programme start="20191220190000 +0200" stop="20191220200000 +0200" channel="TRT1.tr">
     <title lang="tr">Ana Haber</title>
   </programme>
-  <programme start="20191220195500 +0200" stop="20191220200000 +0200" channel="TRT1.tr">
-    <title lang="tr">Doğrusu Ne?</title>
-  </programme>
   <programme start="20191220200000 +0200" stop="20191221001500 +0200" channel="TRT1.tr">
-    <title lang="tr">Payitaht "Abdülhamid"</title>
+    <title lang="tr">Kalk Gidelim</title>
   </programme>
   <programme start="20191215065800 +0200" stop="20191215070000 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
-  <programme start="20191215070000 +0200" stop="20191215080000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bir Zamanlar İnek</title>
-  </programme>
-  <programme start="20191215080000 +0200" stop="20191215083500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bir Türk Filmcinin Dünya Yolculuğu</title>
-  </programme>
-  <programme start="20191215083500 +0200" stop="20191215093000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Hastane İstanbul</title>
-  </programme>
-  <programme start="20191215093000 +0200" stop="20191215102500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Vazgeçiyoruz</title>
-  </programme>
-  <programme start="20191215102500 +0200" stop="20191215105000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yiyeceğin Serüveni</title>
-  </programme>
-  <programme start="20191215105000 +0200" stop="20191215114500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Hayvanların Silahlanma Yarışı</title>
-  </programme>
-  <programme start="20191215114500 +0200" stop="20191215121500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Sen De Tanık Ol</title>
-  </programme>
-  <programme start="20191215121500 +0200" stop="20191215124000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Ev Avcıları-Aile</title>
-  </programme>
-  <programme start="20191215124000 +0200" stop="20191215133500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Hayatın Hikayesi</title>
-  </programme>
-  <programme start="20191215133500 +0200" stop="20191215142500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Büyük Sürüler</title>
-  </programme>
-  <programme start="20191215142500 +0200" stop="20191215152500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Savunma Sanatları</title>
-  </programme>
-  <programme start="20191215152500 +0200" stop="20191215155500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Dünya Tarihinin Dönüm Noktaları</title>
-  </programme>
-  <programme start="20191215155500 +0200" stop="20191215165000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Vahşi Yeni Zelanda</title>
-  </programme>
-  <programme start="20191215165000 +0200" stop="20191215174500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Vahşi Doğadaki Casus</title>
-  </programme>
-  <programme start="20191215174500 +0200" stop="20191215184000 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191215070000 +0200" stop="20191215075500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Savaşın Efsaneleri</title>
   </programme>
-  <programme start="20191215184000 +0200" stop="20191215190500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Ev Avcıları-Aile</title>
+  <programme start="20191215075500 +0200" stop="20191215085000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Su Savaşları</title>
   </programme>
-  <programme start="20191215190500 +0200" stop="20191215200000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Büyük Sürüler</title>
+  <programme start="20191215085000 +0200" stop="20191215092000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Eskiden Beri</title>
   </programme>
-  <programme start="20191215200000 +0200" stop="20191215204000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bir Aş Hikayesi</title>
-  </programme>
-  <programme start="20191215204000 +0200" stop="20191215213000 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191215092000 +0200" stop="20191215101500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Av</title>
   </programme>
-  <programme start="20191215213000 +0200" stop="20191215221500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
+  <programme start="20191215101500 +0200" stop="20191215111000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Hastane Somali</title>
   </programme>
-  <programme start="20191215221500 +0200" stop="20191215231000 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191215111000 +0200" stop="20191215114000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yok Olmadan Keşfet</title>
+  </programme>
+  <programme start="20191215114000 +0200" stop="20191215121500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Son Toplayıcılar</title>
+  </programme>
+  <programme start="20191215121500 +0200" stop="20191215131500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Kuş Bakışı Dünya</title>
   </programme>
-  <programme start="20191215231000 +0200" stop="20191216000500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Savaşın Efsaneleri</title>
+  <programme start="20191215131500 +0200" stop="20191215140000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Antik Çağın Sırları</title>
   </programme>
-  <programme start="20191216000500 +0200" stop="20191216010000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Vahşi Yeni Zelanda</title>
+  <programme start="20191215140000 +0200" stop="20191215143500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Dünya Tarihinin Dönüm Noktaları</title>
   </programme>
-  <programme start="20191216010000 +0200" stop="20191216020000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Vazgeçiyoruz</title>
+  <programme start="20191215143500 +0200" stop="20191215150500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bi Çiftlik</title>
   </programme>
-  <programme start="20191216020000 +0200" stop="20191216023000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yiyeceğin Serüveni</title>
+  <programme start="20191215150500 +0200" stop="20191215155500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Afrika'nın Avcıları</title>
   </programme>
-  <programme start="20191216023000 +0200" stop="20191216032500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Vahşi Doğadaki Casus</title>
+  <programme start="20191215155500 +0200" stop="20191215164500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Mülteci</title>
+  </programme>
+  <programme start="20191215164500 +0200" stop="20191215171500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Sen De Tanık Ol</title>
+  </programme>
+  <programme start="20191215171500 +0200" stop="20191215175000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Aş Hikayesi</title>
+  </programme>
+  <programme start="20191215175000 +0200" stop="20191215182000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Pazarlık</title>
+  </programme>
+  <programme start="20191215182000 +0200" stop="20191215185500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Geçmişin Gölgesinde</title>
+  </programme>
+  <programme start="20191215185500 +0200" stop="20191215192500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Kızıl Şahin</title>
+  </programme>
+  <programme start="20191215192500 +0200" stop="20191215201000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">İmkansız Rotalar</title>
+  </programme>
+  <programme start="20191215201000 +0200" stop="20191215210500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Vahşi Karayipler</title>
+  </programme>
+  <programme start="20191215210500 +0200" stop="20191215214000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Anadolu'nun Afgan Çobanları</title>
+  </programme>
+  <programme start="20191215214000 +0200" stop="20191215221000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">İnsanlar Ve İnançlar</title>
+  </programme>
+  <programme start="20191215221000 +0200" stop="20191215225500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Antik Çağın Sırları</title>
+  </programme>
+  <programme start="20191215225500 +0200" stop="20191216000000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Doğa Tarihi : Doğanın Mucize Yetimleri</title>
+  </programme>
+  <programme start="20191216000000 +0200" stop="20191216005000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Afrika'nın Avcıları</title>
+  </programme>
+  <programme start="20191216005000 +0200" stop="20191216012500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Aş Hikayesi</title>
+  </programme>
+  <programme start="20191216012500 +0200" stop="20191216015500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Eskiden Beri</title>
+  </programme>
+  <programme start="20191216015500 +0200" stop="20191216025000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Kuş Bakışı Dünya</title>
+  </programme>
+  <programme start="20191216025000 +0200" stop="20191216032500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Son Toplayıcılar</title>
   </programme>
   <programme start="20191216032500 +0200" stop="20191216041000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
+    <title lang="tr">Antik Çağın Sırları</title>
   </programme>
-  <programme start="20191216041000 +0200" stop="20191216050000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Av</title>
+  <programme start="20191216041000 +0200" stop="20191216045500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Mülteci</title>
   </programme>
-  <programme start="20191216050000 +0200" stop="20191216060500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Savunma Sanatları</title>
+  <programme start="20191216045500 +0200" stop="20191216054500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Afrika'nın Avcıları</title>
   </programme>
-  <programme start="20191216060500 +0200" stop="20191216065500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Büyük Sürüler</title>
+  <programme start="20191216054500 +0200" stop="20191216061500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bi Çiftlik</title>
+  </programme>
+  <programme start="20191216061500 +0200" stop="20191216065500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">İmkansız Rotalar</title>
   </programme>
   <programme start="20191216065500 +0200" stop="20191216065800 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Tanıtım</title>
@@ -552,107 +558,95 @@
   <programme start="20191216065800 +0200" stop="20191216070000 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
-  <programme start="20191216070000 +0200" stop="20191216075500 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191216070000 +0200" stop="20191216080000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Uslu Duramayanlar</title>
+  </programme>
+  <programme start="20191216080000 +0200" stop="20191216090000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Sanayi Savaşları</title>
+  </programme>
+  <programme start="20191216090000 +0200" stop="20191216094500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
+  </programme>
+  <programme start="20191216094500 +0200" stop="20191216104000 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Savaşın Efsaneleri</title>
   </programme>
-  <programme start="20191216075500 +0200" stop="20191216085000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Su Savaşları</title>
-  </programme>
-  <programme start="20191216085000 +0200" stop="20191216092000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Eskiden Beri</title>
-  </programme>
-  <programme start="20191216092000 +0200" stop="20191216101500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Av</title>
-  </programme>
-  <programme start="20191216101500 +0200" stop="20191216111000 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191216104000 +0200" stop="20191216113500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Hastane Somali</title>
   </programme>
-  <programme start="20191216111000 +0200" stop="20191216114000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yok Olmadan Keşfet</title>
+  <programme start="20191216113500 +0200" stop="20191216120500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Taksimetre İstanbul</title>
   </programme>
-  <programme start="20191216114000 +0200" stop="20191216121500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Son Toplayıcılar</title>
+  <programme start="20191216120500 +0200" stop="20191216130000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">İstanbul'da Doğal Hayat</title>
   </programme>
-  <programme start="20191216121500 +0200" stop="20191216131500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Kuş Bakışı Dünya</title>
-  </programme>
-  <programme start="20191216131500 +0200" stop="20191216140000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Antik Çağın Sırları</title>
-  </programme>
-  <programme start="20191216140000 +0200" stop="20191216143500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Dünya Tarihinin Dönüm Noktaları</title>
-  </programme>
-  <programme start="20191216143500 +0200" stop="20191216150500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bi Çiftlik</title>
-  </programme>
-  <programme start="20191216150500 +0200" stop="20191216155500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Afrika'nın Avcıları</title>
-  </programme>
-  <programme start="20191216155500 +0200" stop="20191216164500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Mülteci</title>
-  </programme>
-  <programme start="20191216164500 +0200" stop="20191216171500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Sen De Tanık Ol</title>
-  </programme>
-  <programme start="20191216171500 +0200" stop="20191216175000 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191216130000 +0200" stop="20191216133500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Bir Aş Hikayesi</title>
   </programme>
-  <programme start="20191216175000 +0200" stop="20191216182000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Pazarlık</title>
+  <programme start="20191216133500 +0200" stop="20191216143500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Su Savaşları</title>
   </programme>
-  <programme start="20191216182000 +0200" stop="20191216185500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Geçmişin Gölgesinde</title>
+  <programme start="20191216143500 +0200" stop="20191216151000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Dünyayı Kirletenler</title>
   </programme>
-  <programme start="20191216185500 +0200" stop="20191216192500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Kızıl Şahin</title>
-  </programme>
-  <programme start="20191216192500 +0200" stop="20191216201000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">İmkansız Rotalar</title>
-  </programme>
-  <programme start="20191216201000 +0200" stop="20191216210500 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191216151000 +0200" stop="20191216160500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Vahşi Karayipler</title>
   </programme>
-  <programme start="20191216210500 +0200" stop="20191216214000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Anadolu'nun Afgan Çobanları</title>
+  <programme start="20191216160500 +0200" stop="20191216165500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Güneşin Çocukları</title>
   </programme>
-  <programme start="20191216214000 +0200" stop="20191216221000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">İnsanlar Ve İnançlar</title>
+  <programme start="20191216165500 +0200" stop="20191216173000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Ucuz Hayatlar</title>
   </programme>
-  <programme start="20191216221000 +0200" stop="20191216225500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Antik Çağın Sırları</title>
-  </programme>
-  <programme start="20191216225500 +0200" stop="20191217000000 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191216173000 +0200" stop="20191216183500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Doğa Tarihi : Doğanın Mucize Yetimleri</title>
   </programme>
-  <programme start="20191217000000 +0200" stop="20191217005000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Afrika'nın Avcıları</title>
+  <programme start="20191216183500 +0200" stop="20191216190500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yeraltında Yaşamlar Gelengi</title>
   </programme>
-  <programme start="20191217005000 +0200" stop="20191217012500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bir Aş Hikayesi</title>
+  <programme start="20191216190500 +0200" stop="20191216195500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Nazilerin Mega Yapıları 3. Sezon</title>
   </programme>
-  <programme start="20191217012500 +0200" stop="20191217015500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Eskiden Beri</title>
+  <programme start="20191216195500 +0200" stop="20191216202500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yiyeceğin Serüveni</title>
   </programme>
-  <programme start="20191217015500 +0200" stop="20191217025000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Kuş Bakışı Dünya</title>
+  <programme start="20191216202500 +0200" stop="20191216212500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Savaşın Efsaneleri</title>
   </programme>
-  <programme start="20191217025000 +0200" stop="20191217032500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Son Toplayıcılar</title>
+  <programme start="20191216212500 +0200" stop="20191216222500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">İstanbul'da Doğal Hayat</title>
   </programme>
-  <programme start="20191217032500 +0200" stop="20191217041000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Antik Çağın Sırları</title>
+  <programme start="20191216222500 +0200" stop="20191216232000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Suç Dosyası</title>
   </programme>
-  <programme start="20191217041000 +0200" stop="20191217045500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Mülteci</title>
+  <programme start="20191216232000 +0200" stop="20191217001500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Attenborough'un Harika Yumurtaları</title>
   </programme>
-  <programme start="20191217045500 +0200" stop="20191217054500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Afrika'nın Avcıları</title>
+  <programme start="20191217001500 +0200" stop="20191217011500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Vazgeçiyoruz</title>
   </programme>
-  <programme start="20191217054500 +0200" stop="20191217061500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bi Çiftlik</title>
+  <programme start="20191217011500 +0200" stop="20191217015000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Ucuz Hayatlar</title>
   </programme>
-  <programme start="20191217061500 +0200" stop="20191217065500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">İmkansız Rotalar</title>
+  <programme start="20191217015000 +0200" stop="20191217024500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">İstanbul'da Doğal Hayat</title>
+  </programme>
+  <programme start="20191217024500 +0200" stop="20191217034000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Su Savaşları</title>
+  </programme>
+  <programme start="20191217034000 +0200" stop="20191217043000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Güneşin Çocukları</title>
+  </programme>
+  <programme start="20191217043000 +0200" stop="20191217050500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Dünyayı Kirletenler</title>
+  </programme>
+  <programme start="20191217050500 +0200" stop="20191217060000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Attenborough'un Harika Yumurtaları</title>
+  </programme>
+  <programme start="20191217060000 +0200" stop="20191217063000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">10'Larca Bilgi</title>
+  </programme>
+  <programme start="20191217063000 +0200" stop="20191217065500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yiyeceğin Serüveni</title>
   </programme>
   <programme start="20191217065500 +0200" stop="20191217065800 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Tanıtım</title>
@@ -660,95 +654,107 @@
   <programme start="20191217065800 +0200" stop="20191217070000 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
-  <programme start="20191217070000 +0200" stop="20191217080000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Uslu Duramayanlar</title>
+  <programme start="20191217070000 +0200" stop="20191217075500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Ailenin Yeni Üyesi</title>
   </programme>
-  <programme start="20191217080000 +0200" stop="20191217090000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Sanayi Savaşları</title>
-  </programme>
-  <programme start="20191217090000 +0200" stop="20191217094500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
-  </programme>
-  <programme start="20191217094500 +0200" stop="20191217104000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Savaşın Efsaneleri</title>
-  </programme>
-  <programme start="20191217104000 +0200" stop="20191217113500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Hastane Somali</title>
-  </programme>
-  <programme start="20191217113500 +0200" stop="20191217120500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Taksimetre İstanbul</title>
-  </programme>
-  <programme start="20191217120500 +0200" stop="20191217130000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">İstanbul'da Doğal Hayat</title>
-  </programme>
-  <programme start="20191217130000 +0200" stop="20191217133500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bir Aş Hikayesi</title>
-  </programme>
-  <programme start="20191217133500 +0200" stop="20191217143500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Su Savaşları</title>
-  </programme>
-  <programme start="20191217143500 +0200" stop="20191217151000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Dünyayı Kirletenler</title>
-  </programme>
-  <programme start="20191217151000 +0200" stop="20191217160500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Vahşi Karayipler</title>
-  </programme>
-  <programme start="20191217160500 +0200" stop="20191217165500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Güneşin Çocukları</title>
-  </programme>
-  <programme start="20191217165500 +0200" stop="20191217173000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Ucuz Hayatlar</title>
-  </programme>
-  <programme start="20191217173000 +0200" stop="20191217183500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Doğa Tarihi : Doğanın Mucize Yetimleri</title>
-  </programme>
-  <programme start="20191217183500 +0200" stop="20191217190500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yeraltında Yaşamlar Gelengi</title>
-  </programme>
-  <programme start="20191217190500 +0200" stop="20191217195500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Nazilerin Mega Yapıları 3. Sezon</title>
-  </programme>
-  <programme start="20191217195500 +0200" stop="20191217202500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yiyeceğin Serüveni</title>
-  </programme>
-  <programme start="20191217202500 +0200" stop="20191217212500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Savaşın Efsaneleri</title>
-  </programme>
-  <programme start="20191217212500 +0200" stop="20191217222500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">İstanbul'da Doğal Hayat</title>
-  </programme>
-  <programme start="20191217222500 +0200" stop="20191217232000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Suç Dosyası</title>
-  </programme>
-  <programme start="20191217232000 +0200" stop="20191218001500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Attenborough'un Harika Yumurtaları</title>
-  </programme>
-  <programme start="20191218001500 +0200" stop="20191218011500 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191217075500 +0200" stop="20191217085000 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Vazgeçiyoruz</title>
   </programme>
-  <programme start="20191218011500 +0200" stop="20191218015000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Ucuz Hayatlar</title>
+  <programme start="20191217085000 +0200" stop="20191217092000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yeşil Güzergah</title>
   </programme>
-  <programme start="20191218015000 +0200" stop="20191218024500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">İstanbul'da Doğal Hayat</title>
+  <programme start="20191217092000 +0200" stop="20191217101000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Nazilerin Mega Yapıları 3. Sezon</title>
   </programme>
-  <programme start="20191218024500 +0200" stop="20191218034000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Su Savaşları</title>
+  <programme start="20191217101000 +0200" stop="20191217110500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Hastane Somali</title>
   </programme>
-  <programme start="20191218034000 +0200" stop="20191218043000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Güneşin Çocukları</title>
+  <programme start="20191217110500 +0200" stop="20191217113500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yiyeceğin Serüveni</title>
   </programme>
-  <programme start="20191218043000 +0200" stop="20191218050500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Dünyayı Kirletenler</title>
+  <programme start="20191217113500 +0200" stop="20191217121500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Türk Filmcinin Dünya Yolculuğu</title>
   </programme>
-  <programme start="20191218050500 +0200" stop="20191218060000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Attenborough'un Harika Yumurtaları</title>
+  <programme start="20191217121500 +0200" stop="20191217131000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Savaşın Efsaneleri</title>
   </programme>
-  <programme start="20191218060000 +0200" stop="20191218063000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">10'Larca Bilgi</title>
+  <programme start="20191217131000 +0200" stop="20191217140500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Dünyanın En Büyük Nehirleri</title>
+  </programme>
+  <programme start="20191217140500 +0200" stop="20191217150500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Hastane İstanbul</title>
+  </programme>
+  <programme start="20191217150500 +0200" stop="20191217155000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
+  </programme>
+  <programme start="20191217155000 +0200" stop="20191217164500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bombus Arılarının Sırları</title>
+  </programme>
+  <programme start="20191217164500 +0200" stop="20191217173500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Nazilerin Mega Yapıları 3. Sezon</title>
+  </programme>
+  <programme start="20191217173500 +0200" stop="20191217180500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Pazarlık</title>
+  </programme>
+  <programme start="20191217180500 +0200" stop="20191217182000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Eskiler Alıyorum</title>
+  </programme>
+  <programme start="20191217182000 +0200" stop="20191217185000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Çırak</title>
+  </programme>
+  <programme start="20191217185000 +0200" stop="20191217192000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Kızıl Orman Karıncaları</title>
+  </programme>
+  <programme start="20191217192000 +0200" stop="20191217195500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Dünya Tarihinin Dönüm Noktaları</title>
+  </programme>
+  <programme start="20191217195500 +0200" stop="20191217202500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Aile Olmak</title>
+  </programme>
+  <programme start="20191217202500 +0200" stop="20191217212000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Dünyanın En Büyük Nehirleri</title>
+  </programme>
+  <programme start="20191217212000 +0200" stop="20191217215500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Son Toplayıcılar</title>
+  </programme>
+  <programme start="20191217215500 +0200" stop="20191217225000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bombus Arılarının Sırları</title>
+  </programme>
+  <programme start="20191217225000 +0200" stop="20191217234000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Olanlar</title>
+  </programme>
+  <programme start="20191217234000 +0200" stop="20191218001500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Dünya Tarihinin Dönüm Noktaları</title>
+  </programme>
+  <programme start="20191218001500 +0200" stop="20191218011000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Dünyanın En Büyük Nehirleri</title>
+  </programme>
+  <programme start="20191218011000 +0200" stop="20191218014000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yeşil Güzergah</title>
+  </programme>
+  <programme start="20191218014000 +0200" stop="20191218023500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bombus Arılarının Sırları</title>
+  </programme>
+  <programme start="20191218023500 +0200" stop="20191218031000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Son Toplayıcılar</title>
+  </programme>
+  <programme start="20191218031000 +0200" stop="20191218040500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Savaşın Efsaneleri</title>
+  </programme>
+  <programme start="20191218040500 +0200" stop="20191218042000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Eskiler Alıyorum</title>
+  </programme>
+  <programme start="20191218042000 +0200" stop="20191218051500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Hastane Somali</title>
+  </programme>
+  <programme start="20191218051500 +0200" stop="20191218054500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Kızıl Orman Karıncaları</title>
+  </programme>
+  <programme start="20191218054500 +0200" stop="20191218063000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
   </programme>
   <programme start="20191218063000 +0200" stop="20191218065500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yiyeceğin Serüveni</title>
+    <title lang="tr">Çırak</title>
   </programme>
   <programme start="20191218065500 +0200" stop="20191218065800 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Tanıtım</title>
@@ -756,107 +762,101 @@
   <programme start="20191218065800 +0200" stop="20191218070000 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
-  <programme start="20191218070000 +0200" stop="20191218075500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Ailenin Yeni Üyesi</title>
+  <programme start="20191218070000 +0200" stop="20191218080000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bakalım İşe Yarayacak Mı ?</title>
   </programme>
-  <programme start="20191218075500 +0200" stop="20191218085000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Vazgeçiyoruz</title>
+  <programme start="20191218080000 +0200" stop="20191218085000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Ulak</title>
   </programme>
   <programme start="20191218085000 +0200" stop="20191218092000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yeşil Güzergah</title>
+    <title lang="tr">Yola Çıkan Öyküler</title>
   </programme>
-  <programme start="20191218092000 +0200" stop="20191218101000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Nazilerin Mega Yapıları 3. Sezon</title>
+  <programme start="20191218092000 +0200" stop="20191218100500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Gururlu Kükreyiş</title>
   </programme>
-  <programme start="20191218101000 +0200" stop="20191218110500 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191218100500 +0200" stop="20191218105500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Hastane Somali</title>
   </programme>
-  <programme start="20191218110500 +0200" stop="20191218113500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yiyeceğin Serüveni</title>
+  <programme start="20191218105500 +0200" stop="20191218112500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Zaman Makinesi</title>
   </programme>
-  <programme start="20191218113500 +0200" stop="20191218121500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bir Türk Filmcinin Dünya Yolculuğu</title>
+  <programme start="20191218112500 +0200" stop="20191218115500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Ekmek Parası</title>
   </programme>
-  <programme start="20191218121500 +0200" stop="20191218131000 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191218115500 +0200" stop="20191218125000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Vahşi Yeni Zelanda</title>
+  </programme>
+  <programme start="20191218125000 +0200" stop="20191218132000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Taksimetre İstanbul</title>
+  </programme>
+  <programme start="20191218132000 +0200" stop="20191218141000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Ulak</title>
+  </programme>
+  <programme start="20191218141000 +0200" stop="20191218150500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Savaşın Efsaneleri</title>
   </programme>
-  <programme start="20191218131000 +0200" stop="20191218140500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Dünyanın En Büyük Nehirleri</title>
+  <programme start="20191218150500 +0200" stop="20191218153500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bi İhtimal</title>
   </programme>
-  <programme start="20191218140500 +0200" stop="20191218150500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Hastane İstanbul</title>
+  <programme start="20191218153500 +0200" stop="20191218163000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Alplerdeki Göller</title>
   </programme>
-  <programme start="20191218150500 +0200" stop="20191218155000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
-  </programme>
-  <programme start="20191218155000 +0200" stop="20191218164500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bombus Arılarının Sırları</title>
-  </programme>
-  <programme start="20191218164500 +0200" stop="20191218173500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Nazilerin Mega Yapıları 3. Sezon</title>
+  <programme start="20191218163000 +0200" stop="20191218173500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Sanayi Savaşları</title>
   </programme>
   <programme start="20191218173500 +0200" stop="20191218180500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Pazarlık</title>
+    <title lang="tr">Yiyeceğin Serüveni</title>
   </programme>
-  <programme start="20191218180500 +0200" stop="20191218182000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Eskiler Alıyorum</title>
-  </programme>
-  <programme start="20191218182000 +0200" stop="20191218185000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Çırak</title>
-  </programme>
-  <programme start="20191218185000 +0200" stop="20191218192000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Kızıl Orman Karıncaları</title>
-  </programme>
-  <programme start="20191218192000 +0200" stop="20191218195500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Dünya Tarihinin Dönüm Noktaları</title>
-  </programme>
-  <programme start="20191218195500 +0200" stop="20191218202500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Aile Olmak</title>
-  </programme>
-  <programme start="20191218202500 +0200" stop="20191218212000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Dünyanın En Büyük Nehirleri</title>
-  </programme>
-  <programme start="20191218212000 +0200" stop="20191218215500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Son Toplayıcılar</title>
-  </programme>
-  <programme start="20191218215500 +0200" stop="20191218225000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bombus Arılarının Sırları</title>
-  </programme>
-  <programme start="20191218225000 +0200" stop="20191218234000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Olanlar</title>
-  </programme>
-  <programme start="20191218234000 +0200" stop="20191219001500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Dünya Tarihinin Dönüm Noktaları</title>
-  </programme>
-  <programme start="20191219001500 +0200" stop="20191219011000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Dünyanın En Büyük Nehirleri</title>
-  </programme>
-  <programme start="20191219011000 +0200" stop="20191219014000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yeşil Güzergah</title>
-  </programme>
-  <programme start="20191219014000 +0200" stop="20191219023500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bombus Arılarının Sırları</title>
-  </programme>
-  <programme start="20191219023500 +0200" stop="20191219031000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Son Toplayıcılar</title>
-  </programme>
-  <programme start="20191219031000 +0200" stop="20191219040500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Savaşın Efsaneleri</title>
-  </programme>
-  <programme start="20191219040500 +0200" stop="20191219042000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Eskiler Alıyorum</title>
-  </programme>
-  <programme start="20191219042000 +0200" stop="20191219051500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Hastane Somali</title>
-  </programme>
-  <programme start="20191219051500 +0200" stop="20191219054500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Kızıl Orman Karıncaları</title>
-  </programme>
-  <programme start="20191219054500 +0200" stop="20191219063000 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191218180500 +0200" stop="20191218185000 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
   </programme>
-  <programme start="20191219063000 +0200" stop="20191219065500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Çırak</title>
+  <programme start="20191218185000 +0200" stop="20191218192500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Aş Hikayesi</title>
+  </programme>
+  <programme start="20191218192500 +0200" stop="20191218195500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Kızıl Tilki</title>
+  </programme>
+  <programme start="20191218195500 +0200" stop="20191218202500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Sen De Tanık Ol</title>
+  </programme>
+  <programme start="20191218202500 +0200" stop="20191218213000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Büyük Mücadele</title>
+  </programme>
+  <programme start="20191218213000 +0200" stop="20191218222500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Muson Toprakları</title>
+  </programme>
+  <programme start="20191218222500 +0200" stop="20191218230000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Aş Hikayesi</title>
+  </programme>
+  <programme start="20191218230000 +0200" stop="20191218233000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">İnsanlar Ve İnançlar</title>
+  </programme>
+  <programme start="20191218233000 +0200" stop="20191219002500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Vahşi Yeni Zelanda</title>
+  </programme>
+  <programme start="20191219002500 +0200" stop="20191219005500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yola Çıkan Öyküler</title>
+  </programme>
+  <programme start="20191219005500 +0200" stop="20191219015000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Alplerdeki Göller</title>
+  </programme>
+  <programme start="20191219015000 +0200" stop="20191219023500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
+  </programme>
+  <programme start="20191219023500 +0200" stop="20191219033000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Savaşın Efsaneleri</title>
+  </programme>
+  <programme start="20191219033000 +0200" stop="20191219043000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Büyük Mücadele</title>
+  </programme>
+  <programme start="20191219043000 +0200" stop="20191219052000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Muson Toprakları</title>
+  </programme>
+  <programme start="20191219052000 +0200" stop="20191219061000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Hastane Somali</title>
+  </programme>
+  <programme start="20191219061000 +0200" stop="20191219065500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Gururlu Kükreyiş</title>
   </programme>
   <programme start="20191219065500 +0200" stop="20191219065800 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Tanıtım</title>
@@ -865,100 +865,109 @@
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
   <programme start="20191219070000 +0200" stop="20191219080000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bakalım İşe Yarayacak Mı ?</title>
+    <title lang="tr">Büyük Mücadele</title>
   </programme>
-  <programme start="20191219080000 +0200" stop="20191219085000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Ulak</title>
+  <programme start="20191219080000 +0200" stop="20191219083000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Pazarlık</title>
   </programme>
-  <programme start="20191219085000 +0200" stop="20191219092000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yola Çıkan Öyküler</title>
+  <programme start="20191219083000 +0200" stop="20191219090500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Değişen Şehirler</title>
   </programme>
-  <programme start="20191219092000 +0200" stop="20191219100500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gururlu Kükreyiş</title>
-  </programme>
-  <programme start="20191219100500 +0200" stop="20191219105500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Hastane Somali</title>
-  </programme>
-  <programme start="20191219105500 +0200" stop="20191219112500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Zaman Makinesi</title>
-  </programme>
-  <programme start="20191219112500 +0200" stop="20191219115500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Ekmek Parası</title>
-  </programme>
-  <programme start="20191219115500 +0200" stop="20191219125000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Vahşi Yeni Zelanda</title>
-  </programme>
-  <programme start="20191219125000 +0200" stop="20191219132000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Taksimetre İstanbul</title>
-  </programme>
-  <programme start="20191219132000 +0200" stop="20191219141000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Ulak</title>
-  </programme>
-  <programme start="20191219141000 +0200" stop="20191219150500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Savaşın Efsaneleri</title>
-  </programme>
-  <programme start="20191219150500 +0200" stop="20191219153500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bi İhtimal</title>
-  </programme>
-  <programme start="20191219153500 +0200" stop="20191219163000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Alplerdeki Göller</title>
-  </programme>
-  <programme start="20191219163000 +0200" stop="20191219173500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Sanayi Savaşları</title>
-  </programme>
-  <programme start="20191219173500 +0200" stop="20191219180500 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191219090500 +0200" stop="20191219093500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Yiyeceğin Serüveni</title>
   </programme>
-  <programme start="20191219180500 +0200" stop="20191219185000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
-  </programme>
-  <programme start="20191219185000 +0200" stop="20191219192500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bir Aş Hikayesi</title>
-  </programme>
-  <programme start="20191219192500 +0200" stop="20191219195500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Kızıl Tilki</title>
-  </programme>
-  <programme start="20191219195500 +0200" stop="20191219202500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Sen De Tanık Ol</title>
-  </programme>
-  <programme start="20191219202500 +0200" stop="20191219213000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Büyük Mücadele</title>
-  </programme>
-  <programme start="20191219213000 +0200" stop="20191219222500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Muson Toprakları</title>
-  </programme>
-  <programme start="20191219222500 +0200" stop="20191219230000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bir Aş Hikayesi</title>
-  </programme>
-  <programme start="20191219230000 +0200" stop="20191219233000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">İnsanlar Ve İnançlar</title>
-  </programme>
-  <programme start="20191219233000 +0200" stop="20191220002500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Vahşi Yeni Zelanda</title>
-  </programme>
-  <programme start="20191220002500 +0200" stop="20191220005500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yola Çıkan Öyküler</title>
-  </programme>
-  <programme start="20191220005500 +0200" stop="20191220015000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Alplerdeki Göller</title>
-  </programme>
-  <programme start="20191220015000 +0200" stop="20191220023500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
-  </programme>
-  <programme start="20191220023500 +0200" stop="20191220033000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Savaşın Efsaneleri</title>
-  </programme>
-  <programme start="20191220033000 +0200" stop="20191220043000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Büyük Mücadele</title>
-  </programme>
-  <programme start="20191220043000 +0200" stop="20191220052000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Muson Toprakları</title>
-  </programme>
-  <programme start="20191220052000 +0200" stop="20191220061000 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191219093500 +0200" stop="20191219102500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Hastane Somali</title>
   </programme>
-  <programme start="20191220061000 +0200" stop="20191220065500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gururlu Kükreyiş</title>
+  <programme start="20191219102500 +0200" stop="20191219110000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Aş Hikayesi</title>
+  </programme>
+  <programme start="20191219110000 +0200" stop="20191219113000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Çırak</title>
+  </programme>
+  <programme start="20191219113000 +0200" stop="20191219122000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Muson Toprakları</title>
+  </programme>
+  <programme start="20191219122000 +0200" stop="20191219131500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Gecenin Ardından</title>
+  </programme>
+  <programme start="20191219131500 +0200" stop="20191219135500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Başka Bir Öykü Zavar Çocuk Keklik</title>
+  </programme>
+  <programme start="20191219135500 +0200" stop="20191219142500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Türk Filmcinin Dünya Yolculuğu</title>
+  </programme>
+  <programme start="20191219142500 +0200" stop="20191219145500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Doğu'nun Kayıp Silüetleri</title>
+  </programme>
+  <programme start="20191219145500 +0200" stop="20191219155000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yaşayan Kovuklar</title>
+  </programme>
+  <programme start="20191219155000 +0200" stop="20191219162000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Ucuz Hayatlar</title>
+  </programme>
+  <programme start="20191219162000 +0200" stop="20191219170500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
+  </programme>
+  <programme start="20191219170500 +0200" stop="20191219180000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Ortadoğu Yaban Hayatı</title>
+  </programme>
+  <programme start="20191219180000 +0200" stop="20191219185500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Savaşın Efsaneleri</title>
+  </programme>
+  <programme start="20191219185500 +0200" stop="20191219192500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">10'Larca Bilgi</title>
+  </programme>
+  <programme start="20191219192500 +0200" stop="20191219201000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Kaz Otaran</title>
+  </programme>
+  <programme start="20191219201000 +0200" stop="20191219210500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Gecenin Ardından</title>
+  </programme>
+  <programme start="20191219210500 +0200" stop="20191219220000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Su Savaşları</title>
+  </programme>
+  <programme start="20191219220000 +0200" stop="20191219223000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Başka Bir Öykü Fartun</title>
+  </programme>
+  <programme start="20191219223000 +0200" stop="20191219224500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Diğer Hikayeler</title>
+  </programme>
+  <programme start="20191219224500 +0200" stop="20191219234000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Vahşi Yeni Zelanda</title>
+  </programme>
+  <programme start="20191219234000 +0200" stop="20191220003500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Gecenin Ardından</title>
+  </programme>
+  <programme start="20191220003500 +0200" stop="20191220010500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yiyeceğin Serüveni</title>
+  </programme>
+  <programme start="20191220010500 +0200" stop="20191220014000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Değişen Şehirler</title>
+  </programme>
+  <programme start="20191220014000 +0200" stop="20191220023500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Su Savaşları</title>
+  </programme>
+  <programme start="20191220023500 +0200" stop="20191220033000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Ortadoğu Yaban Hayatı</title>
+  </programme>
+  <programme start="20191220033000 +0200" stop="20191220042000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Hastane Somali</title>
+  </programme>
+  <programme start="20191220042000 +0200" stop="20191220045000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Ucuz Hayatlar</title>
+  </programme>
+  <programme start="20191220045000 +0200" stop="20191220052000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Türk Filmcinin Dünya Yolculuğu</title>
+  </programme>
+  <programme start="20191220052000 +0200" stop="20191220061500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yaşayan Kovuklar</title>
+  </programme>
+  <programme start="20191220061500 +0200" stop="20191220064500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Çırak</title>
+  </programme>
+  <programme start="20191220064500 +0200" stop="20191220065500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Diğer Hikayeler</title>
   </programme>
   <programme start="20191220065500 +0200" stop="20191220065800 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Tanıtım</title>
@@ -966,176 +975,164 @@
   <programme start="20191220065800 +0200" stop="20191220070000 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
-  <programme start="20191220070000 +0200" stop="20191220080000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Büyük Mücadele</title>
+  <programme start="20191220070000 +0200" stop="20191220080500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yeni Hayata Başlangıç</title>
   </programme>
-  <programme start="20191220080000 +0200" stop="20191220083000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Pazarlık</title>
+  <programme start="20191220080500 +0200" stop="20191220083500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Tatlı Hayat</title>
   </programme>
-  <programme start="20191220083000 +0200" stop="20191220090500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Değişen Şehirler</title>
+  <programme start="20191220083500 +0200" stop="20191220085500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Gün</title>
   </programme>
-  <programme start="20191220090500 +0200" stop="20191220093500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yiyeceğin Serüveni</title>
+  <programme start="20191220085500 +0200" stop="20191220092500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yabancı Hayatı Keşfet</title>
   </programme>
-  <programme start="20191220093500 +0200" stop="20191220102500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Hastane Somali</title>
-  </programme>
-  <programme start="20191220102500 +0200" stop="20191220110000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bir Aş Hikayesi</title>
-  </programme>
-  <programme start="20191220110000 +0200" stop="20191220113000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Çırak</title>
-  </programme>
-  <programme start="20191220113000 +0200" stop="20191220122000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Muson Toprakları</title>
-  </programme>
-  <programme start="20191220122000 +0200" stop="20191220131500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gecenin Ardından</title>
-  </programme>
-  <programme start="20191220131500 +0200" stop="20191220135500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Başka Bir Öykü Zavar Çocuk Keklik</title>
-  </programme>
-  <programme start="20191220135500 +0200" stop="20191220142500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Bir Türk Filmcinin Dünya Yolculuğu</title>
-  </programme>
-  <programme start="20191220142500 +0200" stop="20191220145500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Doğu'nun Kayıp Silüetleri</title>
-  </programme>
-  <programme start="20191220145500 +0200" stop="20191220155000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Yaşayan Kovuklar</title>
-  </programme>
-  <programme start="20191220155000 +0200" stop="20191220162000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Ucuz Hayatlar</title>
-  </programme>
-  <programme start="20191220162000 +0200" stop="20191220170500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
-  </programme>
-  <programme start="20191220170500 +0200" stop="20191220180000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Ortadoğu Yaban Hayatı</title>
-  </programme>
-  <programme start="20191220180000 +0200" stop="20191220185500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Savaşın Efsaneleri</title>
-  </programme>
-  <programme start="20191220185500 +0200" stop="20191220192500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">10'Larca Bilgi</title>
-  </programme>
-  <programme start="20191220192500 +0200" stop="20191220201000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Kaz Otaran</title>
-  </programme>
-  <programme start="20191220201000 +0200" stop="20191220210500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gecenin Ardından</title>
-  </programme>
-  <programme start="20191220210500 +0200" stop="20191220220000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Su Savaşları</title>
-  </programme>
-  <programme start="20191220220000 +0200" stop="20191220223000 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Başka Bir Öykü Fartun</title>
-  </programme>
-  <programme start="20191220223000 +0200" stop="20191220224500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Diğer Hikayeler</title>
-  </programme>
-  <programme start="20191220224500 +0200" stop="20191220234000 +0200" channel="TRTBelgesel.tr">
+  <programme start="20191220092500 +0200" stop="20191220102000 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Vahşi Yeni Zelanda</title>
   </programme>
-  <programme start="20191220234000 +0200" stop="20191221003500 +0200" channel="TRTBelgesel.tr">
-    <title lang="tr">Gecenin Ardından</title>
+  <programme start="20191220102000 +0200" stop="20191220112000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Sanayi Savaşları</title>
   </programme>
-  <programme start="20191215060000 +0200" stop="20191215065000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 06</title>
+  <programme start="20191220112000 +0200" stop="20191220121500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Doğa Tarihi : Doğanın Mucize Yetimleri</title>
   </programme>
-  <programme start="20191215065000 +0200" stop="20191215065500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Kitap Haber</title>
+  <programme start="20191220121500 +0200" stop="20191220130000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Gizemli Tarih "Göbekli Tepe"</title>
   </programme>
-  <programme start="20191215065500 +0200" stop="20191215070000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Hava Durumu</title>
+  <programme start="20191220130000 +0200" stop="20191220135500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yaşayan Kovuklar</title>
   </programme>
-  <programme start="20191215070000 +0200" stop="20191215095500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Günaydın Hafta Sonu</title>
+  <programme start="20191220135500 +0200" stop="20191220143000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Aş Hikayesi</title>
+  </programme>
+  <programme start="20191220143000 +0200" stop="20191220152500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bal Porsuğu- Hayatta Kalma Ustası</title>
+  </programme>
+  <programme start="20191220152500 +0200" stop="20191220155500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bilimin Ev Hali</title>
+  </programme>
+  <programme start="20191220155500 +0200" stop="20191220165000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Hayatın Hikayesi</title>
+  </programme>
+  <programme start="20191220165000 +0200" stop="20191220174500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Su Savaşları</title>
+  </programme>
+  <programme start="20191220174500 +0200" stop="20191220183500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Okul Yolunda</title>
+  </programme>
+  <programme start="20191220183500 +0200" stop="20191220190500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Dünya Yaşam</title>
+  </programme>
+  <programme start="20191220190500 +0200" stop="20191220200000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Hayvanların Silahlanma Yarışı</title>
+  </programme>
+  <programme start="20191220200000 +0200" stop="20191220210000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Savaşın Efsaneleri</title>
+  </programme>
+  <programme start="20191220210000 +0200" stop="20191220213000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Yiyeceğin Serüveni</title>
+  </programme>
+  <programme start="20191220213000 +0200" stop="20191220222500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Büyük Pasifik</title>
+  </programme>
+  <programme start="20191220222500 +0200" stop="20191220230000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Bir Aş Hikayesi</title>
+  </programme>
+  <programme start="20191220230000 +0200" stop="20191220235500 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Hayatın Hikayesi</title>
+  </programme>
+  <programme start="20191220235500 +0200" stop="20191221005000 +0200" channel="TRTBelgesel.tr">
+    <title lang="tr">Savaşın Efsaneleri</title>
+  </programme>
+  <programme start="20191215060000 +0200" stop="20191215093000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">TRT HABER'de Dün Bugün</title>
+  </programme>
+  <programme start="20191215093000 +0200" stop="20191215095500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Ekonomi 7/24</title>
   </programme>
   <programme start="20191215095500 +0200" stop="20191215100000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215100000 +0200" stop="20191215105500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 10</title>
+  <programme start="20191215100000 +0200" stop="20191215104000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Satırbaşı Haber.</title>
+  </programme>
+  <programme start="20191215104000 +0200" stop="20191215105500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Dünya Gündemi.</title>
   </programme>
   <programme start="20191215105500 +0200" stop="20191215110000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215110000 +0200" stop="20191215111500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 11</title>
+  <programme start="20191215110000 +0200" stop="20191215114000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191215111500 +0200" stop="20191215115500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Vapurda Çay Simit Sohbet</title>
+  <programme start="20191215114000 +0200" stop="20191215115500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Spor</title>
   </programme>
   <programme start="20191215115500 +0200" stop="20191215120000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215120000 +0200" stop="20191215125000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 12</title>
+  <programme start="20191215120000 +0200" stop="20191215124000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191215125000 +0200" stop="20191215125500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Kitap Haber</title>
+  <programme start="20191215124000 +0200" stop="20191215125500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">İşitme Engelliler Haber Bülteni</title>
   </programme>
   <programme start="20191215125500 +0200" stop="20191215130000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215130000 +0200" stop="20191215134500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 13</title>
+  <programme start="20191215130000 +0200" stop="20191215134000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20191215134500 +0200" stop="20191215135500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215134000 +0200" stop="20191215135500 +0200" channel="TRTHaber.tr">
     <title lang="tr">Spor</title>
   </programme>
   <programme start="20191215135500 +0200" stop="20191215140000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20191215140000 +0200" stop="20191215145500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 14</title>
+    <title lang="tr">Öğle Ana Haber</title>
   </programme>
   <programme start="20191215145500 +0200" stop="20191215150000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215150000 +0200" stop="20191215152500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 15</title>
+  <programme start="20191215150000 +0200" stop="20191215154000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191215152500 +0200" stop="20191215155500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Emek İster</title>
+  <programme start="20191215154000 +0200" stop="20191215155500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Memleketten Haber Var.</title>
   </programme>
   <programme start="20191215155500 +0200" stop="20191215160000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215160000 +0200" stop="20191215163000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 16</title>
-  </programme>
-  <programme start="20191215163000 +0200" stop="20191215165500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Ömür Dediğin</title>
+  <programme start="20191215160000 +0200" stop="20191215165500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Günün İçinden</title>
   </programme>
   <programme start="20191215165500 +0200" stop="20191215170000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215170000 +0200" stop="20191215174500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 17</title>
-  </programme>
-  <programme start="20191215174500 +0200" stop="20191215175500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Spor</title>
+  <programme start="20191215170000 +0200" stop="20191215175500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Günün İçinden</title>
   </programme>
   <programme start="20191215175500 +0200" stop="20191215180000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215180000 +0200" stop="20191215185500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 18</title>
+  <programme start="20191215180000 +0200" stop="20191215185000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Sıcak Haber</title>
+  </programme>
+  <programme start="20191215185000 +0200" stop="20191215185500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Piyasa Raporu</title>
   </programme>
   <programme start="20191215185500 +0200" stop="20191215190000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215190000 +0200" stop="20191215194000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 19</title>
+  <programme start="20191215190000 +0200" stop="20191215195000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Sıcak Haber</title>
   </programme>
-  <programme start="20191215194000 +0200" stop="20191215195500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Spor</title>
+  <programme start="20191215195000 +0200" stop="20191215195500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20191215195500 +0200" stop="20191215200000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Hava Durumu</title>
+    <title lang="tr">Ana Habere Doğru</title>
   </programme>
   <programme start="20191215200000 +0200" stop="20191215205500 +0200" channel="TRTHaber.tr">
     <title lang="tr">Ana Haber 20</title>
@@ -1143,11 +1140,8 @@
   <programme start="20191215205500 +0200" stop="20191215210000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215210000 +0200" stop="20191215211000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 21</title>
-  </programme>
-  <programme start="20191215211000 +0200" stop="20191215215500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Gönül Dağı.</title>
+  <programme start="20191215210000 +0200" stop="20191215215500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Birinci Sayfa</title>
   </programme>
   <programme start="20191215215500 +0200" stop="20191215220000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1158,32 +1152,14 @@
   <programme start="20191215225500 +0200" stop="20191215230000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215230000 +0200" stop="20191215235500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 23</title>
-  </programme>
-  <programme start="20191215235500 +0200" stop="20191216000000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20191216000000 +0200" stop="20191216002500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 24</title>
-  </programme>
-  <programme start="20191216002500 +0200" stop="20191216005500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Doğadaki İnsan</title>
+  <programme start="20191215230000 +0200" stop="20191216005500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Gece Bakışı</title>
   </programme>
   <programme start="20191216005500 +0200" stop="20191216010000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216010000 +0200" stop="20191216015500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 01</title>
-  </programme>
-  <programme start="20191216015500 +0200" stop="20191216020000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20191216020000 +0200" stop="20191216022500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 02</title>
-  </programme>
-  <programme start="20191216022500 +0200" stop="20191216025500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Gönül Dağı.</title>
+  <programme start="20191216010000 +0200" stop="20191216025500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Gün Sonu</title>
   </programme>
   <programme start="20191216025500 +0200" stop="20191216030000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1198,7 +1174,7 @@
     <title lang="tr">Haber 04</title>
   </programme>
   <programme start="20191216043000 +0200" stop="20191216045500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Emek İster</title>
+    <title lang="tr">Doğadaki İnsan</title>
   </programme>
   <programme start="20191216045500 +0200" stop="20191216050000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1312,7 +1288,7 @@
     <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20191216220000 +0200" stop="20191216225500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 22</title>
+    <title lang="tr">Stratejik Analiz</title>
   </programme>
   <programme start="20191216225500 +0200" stop="20191216230000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1335,11 +1311,11 @@
   <programme start="20191217035500 +0200" stop="20191217040000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217040000 +0200" stop="20191217043000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217040000 +0200" stop="20191217042500 +0200" channel="TRTHaber.tr">
     <title lang="tr">Haber 04</title>
   </programme>
-  <programme start="20191217043000 +0200" stop="20191217045500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Doğadaki İnsan</title>
+  <programme start="20191217042500 +0200" stop="20191217045500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Ömür Dediğin</title>
   </programme>
   <programme start="20191217045500 +0200" stop="20191217050000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1453,7 +1429,7 @@
     <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20191217220000 +0200" stop="20191217225500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Stratejik Analiz</title>
+    <title lang="tr">Siyaset Artı</title>
   </programme>
   <programme start="20191217225500 +0200" stop="20191217230000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1476,11 +1452,11 @@
   <programme start="20191218035500 +0200" stop="20191218040000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218040000 +0200" stop="20191218042500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218040000 +0200" stop="20191218042000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Haber 04</title>
   </programme>
-  <programme start="20191218042500 +0200" stop="20191218045500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Ömür Dediğin</title>
+  <programme start="20191218042000 +0200" stop="20191218045500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Vapurda Çay Simit Sohbet</title>
   </programme>
   <programme start="20191218045500 +0200" stop="20191218050000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1594,7 +1570,7 @@
     <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20191218220000 +0200" stop="20191218225500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Siyaset Artı</title>
+    <title lang="tr">Haber 22</title>
   </programme>
   <programme start="20191218225500 +0200" stop="20191218230000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1617,11 +1593,11 @@
   <programme start="20191219035500 +0200" stop="20191219040000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219040000 +0200" stop="20191219042000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219040000 +0200" stop="20191219042500 +0200" channel="TRTHaber.tr">
     <title lang="tr">Haber 04</title>
   </programme>
-  <programme start="20191219042000 +0200" stop="20191219045500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Vapurda Çay Simit Sohbet</title>
+  <programme start="20191219042500 +0200" stop="20191219045500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Emek İster</title>
   </programme>
   <programme start="20191219045500 +0200" stop="20191219050000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1707,14 +1683,11 @@
   <programme start="20191219180000 +0200" stop="20191219185000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Sıcak Haber</title>
   </programme>
-  <programme start="20191219185000 +0200" stop="20191219185500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219185000 +0200" stop="20191219190000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Piyasa Raporu</title>
   </programme>
-  <programme start="20191219185500 +0200" stop="20191219190000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
   <programme start="20191219190000 +0200" stop="20191219195000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Sıcak Haber</title>
+    <title lang="tr">Beşinci Gün</title>
   </programme>
   <programme start="20191219195000 +0200" stop="20191219195500 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1735,7 +1708,7 @@
     <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20191219220000 +0200" stop="20191219225500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Haber 22</title>
+    <title lang="tr">Sıcak Nokta</title>
   </programme>
   <programme start="20191219225500 +0200" stop="20191219230000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1752,17 +1725,17 @@
   <programme start="20191220025500 +0200" stop="20191220030000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220030000 +0200" stop="20191220035500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220030000 +0200" stop="20191220031000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Haber 03</title>
   </programme>
-  <programme start="20191220035500 +0200" stop="20191220040000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Hava Durumu</title>
+  <programme start="20191220031000 +0200" stop="20191220040000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Sıcak Nokta</title>
   </programme>
-  <programme start="20191220040000 +0200" stop="20191220042500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220040000 +0200" stop="20191220042000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Haber 04</title>
   </programme>
-  <programme start="20191220042500 +0200" stop="20191220045500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Emek İster</title>
+  <programme start="20191220042000 +0200" stop="20191220045500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Gönül Dağı.</title>
   </programme>
   <programme start="20191220045500 +0200" stop="20191220050000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
@@ -1773,92 +1746,95 @@
   <programme start="20191220055500 +0200" stop="20191220060000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220060000 +0200" stop="20191220093000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">TRT HABER'de Dün Bugün</title>
+  <programme start="20191220060000 +0200" stop="20191220065000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Haber 06</title>
   </programme>
-  <programme start="20191220093000 +0200" stop="20191220095500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Ekonomi 7/24</title>
+  <programme start="20191220065000 +0200" stop="20191220065500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Kitap Haber</title>
+  </programme>
+  <programme start="20191220065500 +0200" stop="20191220070000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20191220070000 +0200" stop="20191220095500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Günaydın Hafta Sonu</title>
   </programme>
   <programme start="20191220095500 +0200" stop="20191220100000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220100000 +0200" stop="20191220104000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Satırbaşı Haber.</title>
-  </programme>
-  <programme start="20191220104000 +0200" stop="20191220105500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Dünya Gündemi.</title>
+  <programme start="20191220100000 +0200" stop="20191220105500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Haber 10</title>
   </programme>
   <programme start="20191220105500 +0200" stop="20191220110000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220110000 +0200" stop="20191220114000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Satırbaşı Haber.</title>
+  <programme start="20191220110000 +0200" stop="20191220113000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Haber 11</title>
   </programme>
-  <programme start="20191220114000 +0200" stop="20191220115500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Spor</title>
+  <programme start="20191220113000 +0200" stop="20191220115500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Sadece Sinema</title>
   </programme>
   <programme start="20191220115500 +0200" stop="20191220120000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220120000 +0200" stop="20191220124000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Satırbaşı Haber.</title>
-  </programme>
-  <programme start="20191220124000 +0200" stop="20191220125500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">İşitme Engelliler Haber Bülteni</title>
+  <programme start="20191220120000 +0200" stop="20191220125500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Haber 12</title>
   </programme>
   <programme start="20191220125500 +0200" stop="20191220130000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220130000 +0200" stop="20191220134000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Öğle Ana Haber</title>
+  <programme start="20191220130000 +0200" stop="20191220134500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Haber 13</title>
   </programme>
-  <programme start="20191220134000 +0200" stop="20191220135500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220134500 +0200" stop="20191220135500 +0200" channel="TRTHaber.tr">
     <title lang="tr">Spor</title>
   </programme>
   <programme start="20191220135500 +0200" stop="20191220140000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20191220140000 +0200" stop="20191220145500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Öğle Ana Haber</title>
+    <title lang="tr">Haber 14</title>
   </programme>
   <programme start="20191220145500 +0200" stop="20191220150000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220150000 +0200" stop="20191220154000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Günün İçinden</title>
-  </programme>
-  <programme start="20191220154000 +0200" stop="20191220155500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Memleketten Haber Var.</title>
+  <programme start="20191220150000 +0200" stop="20191220155500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Haber 15</title>
   </programme>
   <programme start="20191220155500 +0200" stop="20191220160000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220160000 +0200" stop="20191220165500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Günün İçinden</title>
+  <programme start="20191220160000 +0200" stop="20191220162000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Haber 16</title>
+  </programme>
+  <programme start="20191220162000 +0200" stop="20191220165500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Doğadaki İnsan</title>
   </programme>
   <programme start="20191220165500 +0200" stop="20191220170000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220170000 +0200" stop="20191220175500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Günün İçinden</title>
+  <programme start="20191220170000 +0200" stop="20191220174500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Haber 17</title>
+  </programme>
+  <programme start="20191220174500 +0200" stop="20191220175500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Spor</title>
   </programme>
   <programme start="20191220175500 +0200" stop="20191220180000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220180000 +0200" stop="20191220185000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Sıcak Haber</title>
+  <programme start="20191220180000 +0200" stop="20191220185500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Haber 18</title>
   </programme>
-  <programme start="20191220185000 +0200" stop="20191220190000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Piyasa Raporu</title>
-  </programme>
-  <programme start="20191220190000 +0200" stop="20191220195000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Beşinci Gün</title>
-  </programme>
-  <programme start="20191220195000 +0200" stop="20191220195500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220185500 +0200" stop="20191220190000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
+  <programme start="20191220190000 +0200" stop="20191220194000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Haber 19</title>
+  </programme>
+  <programme start="20191220194000 +0200" stop="20191220195500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Spor</title>
+  </programme>
   <programme start="20191220195500 +0200" stop="20191220200000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Ana Habere Doğru</title>
+    <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20191220200000 +0200" stop="20191220205500 +0200" channel="TRTHaber.tr">
     <title lang="tr">Ana Haber 20</title>
@@ -1867,18 +1843,21 @@
     <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20191220210000 +0200" stop="20191220215500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Birinci Sayfa</title>
+    <title lang="tr">Ömür Dediğin</title>
   </programme>
   <programme start="20191220215500 +0200" stop="20191220220000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20191220220000 +0200" stop="20191220225500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Sıcak Nokta</title>
+    <title lang="tr">Haber 22</title>
   </programme>
   <programme start="20191220225500 +0200" stop="20191220230000 +0200" channel="TRTHaber.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220230000 +0200" stop="20191221005500 +0200" channel="TRTHaber.tr">
-    <title lang="tr">Gece Bakışı</title>
+  <programme start="20191220230000 +0200" stop="20191220235500 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Haber 23</title>
+  </programme>
+  <programme start="20191220235500 +0200" stop="20191221000000 +0200" channel="TRTHaber.tr">
+    <title lang="tr">Hava Durumu</title>
   </programme>
 </tv>
