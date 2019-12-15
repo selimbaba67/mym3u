@@ -1480,8 +1480,8 @@
     <display-name lang="de">Travel Channel</display-name>
     <url>http://www.tvtoday.de.m</url>
   </channel>
-  <channel id="TRT 1">
-    <display-name lang="tr">TRT 1</display-name>
+  <channel id="TRT1.tr">
+    <display-name lang="tr">TRT1.tr</display-name>
     <url>http://www.trt.net.tr</url>
   </channel>
   <channel id="TRT 3 -  SPOR">
@@ -22267,91 +22267,91 @@
     <title lang="tr">YARIŞ ZAMANI</title>
     <category lang="tr">F1</category>
   </programme>
-  <programme start="20191215043300 +0200" stop="20191215043500 +0200" channel="TRT 1">
+  <programme start="20191215043300 +0200" stop="20191215043500 +0200" channel="TRT1.tr">
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
-  <programme start="20191215043500 +0200" stop="20191215050500 +0200" channel="TRT 1">
+  <programme start="20191215043500 +0200" stop="20191215050500 +0200" channel="TRT1.tr">
     <title lang="tr">Ömür Dediğin</title>
   </programme>
-  <programme start="20191215050500 +0200" stop="20191215060000 +0200" channel="TRT 1">
+  <programme start="20191215050500 +0200" stop="20191215060000 +0200" channel="TRT1.tr">
     <title lang="tr">6 Mantı</title>
   </programme>
-  <programme start="20191215060000 +0200" stop="20191215082500 +0200" channel="TRT 1">
+  <programme start="20191215060000 +0200" stop="20191215082500 +0200" channel="TRT1.tr">
     <title lang="tr">Beni Böyle Sev</title>
   </programme>
-  <programme start="20191215082500 +0200" stop="20191215083500 +0200" channel="TRT 1">
+  <programme start="20191215082500 +0200" stop="20191215083500 +0200" channel="TRT1.tr">
     <title lang="tr">1'De Bugün</title>
   </programme>
-  <programme start="20191215083500 +0200" stop="20191215114000 +0200" channel="TRT 1">
+  <programme start="20191215083500 +0200" stop="20191215114000 +0200" channel="TRT1.tr">
     <title lang="tr">Diriliş "Ertuğrul"</title>
   </programme>
-  <programme start="20191215114000 +0200" stop="20191215115000 +0200" channel="TRT 1">
+  <programme start="20191215114000 +0200" stop="20191215115000 +0200" channel="TRT1.tr">
     <title lang="tr">1'De Bugün</title>
   </programme>
-  <programme start="20191215115000 +0200" stop="20191215130000 +0200" channel="TRT 1">
+  <programme start="20191215115000 +0200" stop="20191215130000 +0200" channel="TRT1.tr">
     <title lang="tr">Enine Boyuna</title>
   </programme>
-  <programme start="20191215130000 +0200" stop="20191215140500 +0200" channel="TRT 1">
+  <programme start="20191215130000 +0200" stop="20191215140500 +0200" channel="TRT1.tr">
     <title lang="tr">Savaşın Efsaneleri</title>
   </programme>
-  <programme start="20191215140500 +0200" stop="20191215173000 +0200" channel="TRT 1">
+  <programme start="20191215140500 +0200" stop="20191215173000 +0200" channel="TRT1.tr">
     <title lang="tr">Vuslat</title>
   </programme>
-  <programme start="20191215173000 +0200" stop="20191215190000 +0200" channel="TRT 1">
+  <programme start="20191215173000 +0200" stop="20191215190000 +0200" channel="TRT1.tr">
     <title lang="tr">Tozkoparan</title>
   </programme>
-  <programme start="20191215190000 +0200" stop="20191215200000 +0200" channel="TRT 1">
+  <programme start="20191215190000 +0200" stop="20191215200000 +0200" channel="TRT1.tr">
     <title lang="tr">Ana Haber</title>
   </programme>
-  <programme start="20191215200000 +0200" stop="20191216001500 +0200" channel="TRT 1">
+  <programme start="20191215200000 +0200" stop="20191216001500 +0200" channel="TRT1.tr">
     <title lang="tr">Şampiyon</title>
   </programme>
-  <programme start="20191216001500 +0200" stop="20191216015500 +0200" channel="TRT 1">
+  <programme start="20191216001500 +0200" stop="20191216015500 +0200" channel="TRT1.tr">
     <title lang="tr">Ev Sineması Kuşağı "Bünyamin"</title>
   </programme>
-  <programme start="20191216015500 +0200" stop="20191216041500 +0200" channel="TRT 1">
+  <programme start="20191216015500 +0200" stop="20191216041500 +0200" channel="TRT1.tr">
     <title lang="tr">Diriliş "Ertuğrul"</title>
   </programme>
-  <programme start="20191216050800 +0200" stop="20191216051000 +0200" channel="TRT 1">
+  <programme start="20191216050800 +0200" stop="20191216051000 +0200" channel="TRT1.tr">
     <title lang="tr">İstiklal Marşı ve Günün Program Akışı</title>
   </programme>
-  <programme start="20191216041500 +0200" stop="20191216051000 +0200" channel="TRT 1">
+  <programme start="20191216041500 +0200" stop="20191216051000 +0200" channel="TRT1.tr">
     <title lang="tr">6 Mantı</title>
   </programme>
-  <programme start="20191216051000 +0200" stop="20191216060500 +0200" channel="TRT 1">
+  <programme start="20191216051000 +0200" stop="20191216060500 +0200" channel="TRT1.tr">
     <title lang="tr">İncir Ağacı</title>
   </programme>
-  <programme start="20191216060500 +0200" stop="20191216090000 +0200" channel="TRT 1">
+  <programme start="20191216060500 +0200" stop="20191216090000 +0200" channel="TRT1.tr">
     <title lang="tr">Şampiyon</title>
   </programme>
-  <programme start="20191216090000 +0200" stop="20191216113500 +0200" channel="TRT 1">
+  <programme start="20191216090000 +0200" stop="20191216113500 +0200" channel="TRT1.tr">
     <title lang="tr">Baba Candır</title>
   </programme>
-  <programme start="20191216113500 +0200" stop="20191216114500 +0200" channel="TRT 1">
+  <programme start="20191216113500 +0200" stop="20191216114500 +0200" channel="TRT1.tr">
     <title lang="tr">1'De Bugün</title>
   </programme>
-  <programme start="20191216114500 +0200" stop="20191216130000 +0200" channel="TRT 1">
+  <programme start="20191216114500 +0200" stop="20191216130000 +0200" channel="TRT1.tr">
     <title lang="tr">Hapishanedeki Çiçek</title>
   </programme>
-  <programme start="20191216130000 +0200" stop="20191216151500 +0200" channel="TRT 1">
+  <programme start="20191216130000 +0200" stop="20191216151500 +0200" channel="TRT1.tr">
     <title lang="tr">Aileler Yarışıyor</title>
   </programme>
-  <programme start="20191216151500 +0200" stop="20191216170500 +0200" channel="TRT 1">
+  <programme start="20191216151500 +0200" stop="20191216170500 +0200" channel="TRT1.tr">
     <title lang="tr">İncir Ağacı</title>
   </programme>
-  <programme start="20191216170500 +0200" stop="20191216171500 +0200" channel="TRT 1">
+  <programme start="20191216170500 +0200" stop="20191216171500 +0200" channel="TRT1.tr">
     <title lang="tr">1'De Bugün</title>
   </programme>
-  <programme start="20191216171500 +0200" stop="20191216190000 +0200" channel="TRT 1">
+  <programme start="20191216171500 +0200" stop="20191216190000 +0200" channel="TRT1.tr">
     <title lang="tr">Seksenler</title>
   </programme>
-  <programme start="20191216190000 +0200" stop="20191216195500 +0200" channel="TRT 1">
+  <programme start="20191216190000 +0200" stop="20191216195500 +0200" channel="TRT1.tr">
     <title lang="tr">Ana Haber</title>
   </programme>
-  <programme start="20191216195500 +0200" stop="20191216200000 +0200" channel="TRT 1">
+  <programme start="20191216195500 +0200" stop="20191216200000 +0200" channel="TRT1.tr">
     <title lang="tr">Doğrusu Ne?</title>
   </programme>
-  <programme start="20191216200000 +0200" stop="20191217001500 +0200" channel="TRT 1">
+  <programme start="20191216200000 +0200" stop="20191217001500 +0200" channel="TRT1.tr">
     <title lang="tr">Vuslat</title>
   </programme>
   <programme start="20191215000000 +0000" stop="20191215013000 +0000" channel="TRT 3 - TRT Spor">
