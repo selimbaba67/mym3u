@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TRT1.tr">
-    <display-name lang="tr">TRT1.tr</display-name>
+    <display-name lang="tr">TRT 1</display-name>
     <url>http://www.trt.net.tr</url>
   </channel>
   <channel id="TRT 3-Spor">
@@ -13,7 +13,7 @@
     <url>http://www.trt.net.tr</url>
   </channel>
   <channel id="TRTBelgesel.tr">
-    <display-name lang="tr">TRTBelgesel.tr</display-name>
+    <display-name lang="tr">TRT Belgesel</display-name>
     <url>http://www.trt.net.tr</url>
   </channel>
   <channel id="TRT Diyanet">
@@ -24,8 +24,8 @@
     <display-name lang="tr">TRT El Arabia</display-name>
     <url>http://www.trt.net.tr</url>
   </channel>
-  <channel id="TRTHaber.tr">
-    <display-name lang="tr">TRTHaber.tr</display-name>
+  <channel id="TRT Haber">
+    <display-name lang="tr">TRT Haber</display-name>
     <url>http://www.trt.net.tr</url>
   </channel>
   <channel id="TRT Kurdî">
@@ -1575,844 +1575,844 @@
   <programme start="20191220234000 +0200" stop="20191221003500 +0200" channel="TRTBelgesel.tr">
     <title lang="tr">Gecenin Ardından</title>
   </programme>
-  <programme start="20191215060000 +0200" stop="20191215065000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215060000 +0200" stop="20191215065000 +0200" channel="TRT Haber">
     <title lang="tr">Haber 06</title>
   </programme>
-  <programme start="20191215065000 +0200" stop="20191215065500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215065000 +0200" stop="20191215065500 +0200" channel="TRT Haber">
     <title lang="tr">Kitap Haber</title>
   </programme>
-  <programme start="20191215065500 +0200" stop="20191215070000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215065500 +0200" stop="20191215070000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215070000 +0200" stop="20191215095500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215070000 +0200" stop="20191215095500 +0200" channel="TRT Haber">
     <title lang="tr">Günaydın Hafta Sonu</title>
   </programme>
-  <programme start="20191215095500 +0200" stop="20191215100000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215095500 +0200" stop="20191215100000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215100000 +0200" stop="20191215105500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215100000 +0200" stop="20191215105500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 10</title>
   </programme>
-  <programme start="20191215105500 +0200" stop="20191215110000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215105500 +0200" stop="20191215110000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215110000 +0200" stop="20191215111500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215110000 +0200" stop="20191215111500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 11</title>
   </programme>
-  <programme start="20191215111500 +0200" stop="20191215115500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215111500 +0200" stop="20191215115500 +0200" channel="TRT Haber">
     <title lang="tr">Vapurda Çay Simit Sohbet</title>
   </programme>
-  <programme start="20191215115500 +0200" stop="20191215120000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215115500 +0200" stop="20191215120000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215120000 +0200" stop="20191215125000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215120000 +0200" stop="20191215125000 +0200" channel="TRT Haber">
     <title lang="tr">Haber 12</title>
   </programme>
-  <programme start="20191215125000 +0200" stop="20191215125500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215125000 +0200" stop="20191215125500 +0200" channel="TRT Haber">
     <title lang="tr">Kitap Haber</title>
   </programme>
-  <programme start="20191215125500 +0200" stop="20191215130000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215125500 +0200" stop="20191215130000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215130000 +0200" stop="20191215134500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215130000 +0200" stop="20191215134500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 13</title>
   </programme>
-  <programme start="20191215134500 +0200" stop="20191215135500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215134500 +0200" stop="20191215135500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191215135500 +0200" stop="20191215140000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215135500 +0200" stop="20191215140000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215140000 +0200" stop="20191215145500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215140000 +0200" stop="20191215145500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 14</title>
   </programme>
-  <programme start="20191215145500 +0200" stop="20191215150000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215145500 +0200" stop="20191215150000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215150000 +0200" stop="20191215152500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215150000 +0200" stop="20191215152500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 15</title>
   </programme>
-  <programme start="20191215152500 +0200" stop="20191215155500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215152500 +0200" stop="20191215155500 +0200" channel="TRT Haber">
     <title lang="tr">Emek İster</title>
   </programme>
-  <programme start="20191215155500 +0200" stop="20191215160000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215155500 +0200" stop="20191215160000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215160000 +0200" stop="20191215163000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215160000 +0200" stop="20191215163000 +0200" channel="TRT Haber">
     <title lang="tr">Haber 16</title>
   </programme>
-  <programme start="20191215163000 +0200" stop="20191215165500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215163000 +0200" stop="20191215165500 +0200" channel="TRT Haber">
     <title lang="tr">Ömür Dediğin</title>
   </programme>
-  <programme start="20191215165500 +0200" stop="20191215170000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215165500 +0200" stop="20191215170000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215170000 +0200" stop="20191215174500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215170000 +0200" stop="20191215174500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 17</title>
   </programme>
-  <programme start="20191215174500 +0200" stop="20191215175500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215174500 +0200" stop="20191215175500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191215175500 +0200" stop="20191215180000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215175500 +0200" stop="20191215180000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215180000 +0200" stop="20191215185500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215180000 +0200" stop="20191215185500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 18</title>
   </programme>
-  <programme start="20191215185500 +0200" stop="20191215190000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215185500 +0200" stop="20191215190000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215190000 +0200" stop="20191215194000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215190000 +0200" stop="20191215194000 +0200" channel="TRT Haber">
     <title lang="tr">Haber 19</title>
   </programme>
-  <programme start="20191215194000 +0200" stop="20191215195500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215194000 +0200" stop="20191215195500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191215195500 +0200" stop="20191215200000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215195500 +0200" stop="20191215200000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215200000 +0200" stop="20191215205500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215200000 +0200" stop="20191215205500 +0200" channel="TRT Haber">
     <title lang="tr">Ana Haber 20</title>
   </programme>
-  <programme start="20191215205500 +0200" stop="20191215210000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215205500 +0200" stop="20191215210000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215210000 +0200" stop="20191215211000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215210000 +0200" stop="20191215211000 +0200" channel="TRT Haber">
     <title lang="tr">Haber 21</title>
   </programme>
-  <programme start="20191215211000 +0200" stop="20191215215500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215211000 +0200" stop="20191215215500 +0200" channel="TRT Haber">
     <title lang="tr">Gönül Dağı.</title>
   </programme>
-  <programme start="20191215215500 +0200" stop="20191215220000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215215500 +0200" stop="20191215220000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215220000 +0200" stop="20191215225500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215220000 +0200" stop="20191215225500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 22</title>
   </programme>
-  <programme start="20191215225500 +0200" stop="20191215230000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215225500 +0200" stop="20191215230000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191215230000 +0200" stop="20191215235500 +0200" channel="TRTHaber.tr">
+  <programme start="20191215230000 +0200" stop="20191215235500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 23</title>
   </programme>
-  <programme start="20191215235500 +0200" stop="20191216000000 +0200" channel="TRTHaber.tr">
+  <programme start="20191215235500 +0200" stop="20191216000000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216000000 +0200" stop="20191216002500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216000000 +0200" stop="20191216002500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 24</title>
   </programme>
-  <programme start="20191216002500 +0200" stop="20191216005500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216002500 +0200" stop="20191216005500 +0200" channel="TRT Haber">
     <title lang="tr">Doğadaki İnsan</title>
   </programme>
-  <programme start="20191216005500 +0200" stop="20191216010000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216005500 +0200" stop="20191216010000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216010000 +0200" stop="20191216015500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216010000 +0200" stop="20191216015500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 01</title>
   </programme>
-  <programme start="20191216015500 +0200" stop="20191216020000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216015500 +0200" stop="20191216020000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216020000 +0200" stop="20191216022500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216020000 +0200" stop="20191216022500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 02</title>
   </programme>
-  <programme start="20191216022500 +0200" stop="20191216025500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216022500 +0200" stop="20191216025500 +0200" channel="TRT Haber">
     <title lang="tr">Gönül Dağı.</title>
   </programme>
-  <programme start="20191216025500 +0200" stop="20191216030000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216025500 +0200" stop="20191216030000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216030000 +0200" stop="20191216035500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216030000 +0200" stop="20191216035500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 03</title>
   </programme>
-  <programme start="20191216035500 +0200" stop="20191216040000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216035500 +0200" stop="20191216040000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216040000 +0200" stop="20191216043000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216040000 +0200" stop="20191216043000 +0200" channel="TRT Haber">
     <title lang="tr">Haber 04</title>
   </programme>
-  <programme start="20191216043000 +0200" stop="20191216045500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216043000 +0200" stop="20191216045500 +0200" channel="TRT Haber">
     <title lang="tr">Emek İster</title>
   </programme>
-  <programme start="20191216045500 +0200" stop="20191216050000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216045500 +0200" stop="20191216050000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216050000 +0200" stop="20191216055500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216050000 +0200" stop="20191216055500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 05</title>
   </programme>
-  <programme start="20191216055500 +0200" stop="20191216060000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216055500 +0200" stop="20191216060000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216060000 +0200" stop="20191216093000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">TRTHaber.tr'de Dün Bugün</title>
+  <programme start="20191216060000 +0200" stop="20191216093000 +0200" channel="TRT Haber">
+    <title lang="tr">TRT HABER'de Dün Bugün</title>
   </programme>
-  <programme start="20191216093000 +0200" stop="20191216095500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216093000 +0200" stop="20191216095500 +0200" channel="TRT Haber">
     <title lang="tr">Ekonomi 7/24</title>
   </programme>
-  <programme start="20191216095500 +0200" stop="20191216100000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216095500 +0200" stop="20191216100000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216100000 +0200" stop="20191216104000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216100000 +0200" stop="20191216104000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191216104000 +0200" stop="20191216105500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216104000 +0200" stop="20191216105500 +0200" channel="TRT Haber">
     <title lang="tr">Dünya Gündemi.</title>
   </programme>
-  <programme start="20191216105500 +0200" stop="20191216110000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216105500 +0200" stop="20191216110000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216110000 +0200" stop="20191216114000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216110000 +0200" stop="20191216114000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191216114000 +0200" stop="20191216115500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216114000 +0200" stop="20191216115500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191216115500 +0200" stop="20191216120000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216115500 +0200" stop="20191216120000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216120000 +0200" stop="20191216124000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216120000 +0200" stop="20191216124000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191216124000 +0200" stop="20191216125500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216124000 +0200" stop="20191216125500 +0200" channel="TRT Haber">
     <title lang="tr">İşitme Engelliler Haber Bülteni</title>
   </programme>
-  <programme start="20191216125500 +0200" stop="20191216130000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216125500 +0200" stop="20191216130000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216130000 +0200" stop="20191216134000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216130000 +0200" stop="20191216134000 +0200" channel="TRT Haber">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20191216134000 +0200" stop="20191216135500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216134000 +0200" stop="20191216135500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191216135500 +0200" stop="20191216140000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216135500 +0200" stop="20191216140000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216140000 +0200" stop="20191216145500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216140000 +0200" stop="20191216145500 +0200" channel="TRT Haber">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20191216145500 +0200" stop="20191216150000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216145500 +0200" stop="20191216150000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216150000 +0200" stop="20191216154000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216150000 +0200" stop="20191216154000 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191216154000 +0200" stop="20191216155500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216154000 +0200" stop="20191216155500 +0200" channel="TRT Haber">
     <title lang="tr">Memleketten Haber Var.</title>
   </programme>
-  <programme start="20191216155500 +0200" stop="20191216160000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216155500 +0200" stop="20191216160000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216160000 +0200" stop="20191216165500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216160000 +0200" stop="20191216165500 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191216165500 +0200" stop="20191216170000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216165500 +0200" stop="20191216170000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216170000 +0200" stop="20191216175500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216170000 +0200" stop="20191216175500 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191216175500 +0200" stop="20191216180000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216175500 +0200" stop="20191216180000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216180000 +0200" stop="20191216185000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216180000 +0200" stop="20191216185000 +0200" channel="TRT Haber">
     <title lang="tr">Sıcak Haber</title>
   </programme>
-  <programme start="20191216185000 +0200" stop="20191216185500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216185000 +0200" stop="20191216185500 +0200" channel="TRT Haber">
     <title lang="tr">Piyasa Raporu</title>
   </programme>
-  <programme start="20191216185500 +0200" stop="20191216190000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216185500 +0200" stop="20191216190000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216190000 +0200" stop="20191216195000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216190000 +0200" stop="20191216195000 +0200" channel="TRT Haber">
     <title lang="tr">Sıcak Haber</title>
   </programme>
-  <programme start="20191216195000 +0200" stop="20191216195500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216195000 +0200" stop="20191216195500 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216195500 +0200" stop="20191216200000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216195500 +0200" stop="20191216200000 +0200" channel="TRT Haber">
     <title lang="tr">Ana Habere Doğru</title>
   </programme>
-  <programme start="20191216200000 +0200" stop="20191216205500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216200000 +0200" stop="20191216205500 +0200" channel="TRT Haber">
     <title lang="tr">Ana Haber 20</title>
   </programme>
-  <programme start="20191216205500 +0200" stop="20191216210000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216205500 +0200" stop="20191216210000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216210000 +0200" stop="20191216215500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216210000 +0200" stop="20191216215500 +0200" channel="TRT Haber">
     <title lang="tr">Birinci Sayfa</title>
   </programme>
-  <programme start="20191216215500 +0200" stop="20191216220000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216215500 +0200" stop="20191216220000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216220000 +0200" stop="20191216225500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216220000 +0200" stop="20191216225500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 22</title>
   </programme>
-  <programme start="20191216225500 +0200" stop="20191216230000 +0200" channel="TRTHaber.tr">
+  <programme start="20191216225500 +0200" stop="20191216230000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191216230000 +0200" stop="20191217005500 +0200" channel="TRTHaber.tr">
+  <programme start="20191216230000 +0200" stop="20191217005500 +0200" channel="TRT Haber">
     <title lang="tr">Gece Bakışı</title>
   </programme>
-  <programme start="20191217005500 +0200" stop="20191217010000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217005500 +0200" stop="20191217010000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217010000 +0200" stop="20191217025500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217010000 +0200" stop="20191217025500 +0200" channel="TRT Haber">
     <title lang="tr">Gün Sonu</title>
   </programme>
-  <programme start="20191217025500 +0200" stop="20191217030000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217025500 +0200" stop="20191217030000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217030000 +0200" stop="20191217035500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217030000 +0200" stop="20191217035500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 03</title>
   </programme>
-  <programme start="20191217035500 +0200" stop="20191217040000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217035500 +0200" stop="20191217040000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217040000 +0200" stop="20191217043000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217040000 +0200" stop="20191217043000 +0200" channel="TRT Haber">
     <title lang="tr">Haber 04</title>
   </programme>
-  <programme start="20191217043000 +0200" stop="20191217045500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217043000 +0200" stop="20191217045500 +0200" channel="TRT Haber">
     <title lang="tr">Doğadaki İnsan</title>
   </programme>
-  <programme start="20191217045500 +0200" stop="20191217050000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217045500 +0200" stop="20191217050000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217050000 +0200" stop="20191217055500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217050000 +0200" stop="20191217055500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 05</title>
   </programme>
-  <programme start="20191217055500 +0200" stop="20191217060000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217055500 +0200" stop="20191217060000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217060000 +0200" stop="20191217093000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">TRTHaber.tr'de Dün Bugün</title>
+  <programme start="20191217060000 +0200" stop="20191217093000 +0200" channel="TRT Haber">
+    <title lang="tr">TRT HABER'de Dün Bugün</title>
   </programme>
-  <programme start="20191217093000 +0200" stop="20191217095500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217093000 +0200" stop="20191217095500 +0200" channel="TRT Haber">
     <title lang="tr">Ekonomi 7/24</title>
   </programme>
-  <programme start="20191217095500 +0200" stop="20191217100000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217095500 +0200" stop="20191217100000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217100000 +0200" stop="20191217104000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217100000 +0200" stop="20191217104000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191217104000 +0200" stop="20191217105500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217104000 +0200" stop="20191217105500 +0200" channel="TRT Haber">
     <title lang="tr">Dünya Gündemi.</title>
   </programme>
-  <programme start="20191217105500 +0200" stop="20191217110000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217105500 +0200" stop="20191217110000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217110000 +0200" stop="20191217114000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217110000 +0200" stop="20191217114000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191217114000 +0200" stop="20191217115500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217114000 +0200" stop="20191217115500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191217115500 +0200" stop="20191217120000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217115500 +0200" stop="20191217120000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217120000 +0200" stop="20191217124000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217120000 +0200" stop="20191217124000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191217124000 +0200" stop="20191217125500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217124000 +0200" stop="20191217125500 +0200" channel="TRT Haber">
     <title lang="tr">İşitme Engelliler Haber Bülteni</title>
   </programme>
-  <programme start="20191217125500 +0200" stop="20191217130000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217125500 +0200" stop="20191217130000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217130000 +0200" stop="20191217134000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217130000 +0200" stop="20191217134000 +0200" channel="TRT Haber">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20191217134000 +0200" stop="20191217135500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217134000 +0200" stop="20191217135500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191217135500 +0200" stop="20191217140000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217135500 +0200" stop="20191217140000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217140000 +0200" stop="20191217145500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217140000 +0200" stop="20191217145500 +0200" channel="TRT Haber">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20191217145500 +0200" stop="20191217150000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217145500 +0200" stop="20191217150000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217150000 +0200" stop="20191217154000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217150000 +0200" stop="20191217154000 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191217154000 +0200" stop="20191217155500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217154000 +0200" stop="20191217155500 +0200" channel="TRT Haber">
     <title lang="tr">Memleketten Haber Var.</title>
   </programme>
-  <programme start="20191217155500 +0200" stop="20191217160000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217155500 +0200" stop="20191217160000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217160000 +0200" stop="20191217165500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217160000 +0200" stop="20191217165500 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191217165500 +0200" stop="20191217170000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217165500 +0200" stop="20191217170000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217170000 +0200" stop="20191217175500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217170000 +0200" stop="20191217175500 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191217175500 +0200" stop="20191217180000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217175500 +0200" stop="20191217180000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217180000 +0200" stop="20191217185000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217180000 +0200" stop="20191217185000 +0200" channel="TRT Haber">
     <title lang="tr">Sıcak Haber</title>
   </programme>
-  <programme start="20191217185000 +0200" stop="20191217185500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217185000 +0200" stop="20191217185500 +0200" channel="TRT Haber">
     <title lang="tr">Piyasa Raporu</title>
   </programme>
-  <programme start="20191217185500 +0200" stop="20191217190000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217185500 +0200" stop="20191217190000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217190000 +0200" stop="20191217195000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217190000 +0200" stop="20191217195000 +0200" channel="TRT Haber">
     <title lang="tr">Sıcak Haber</title>
   </programme>
-  <programme start="20191217195000 +0200" stop="20191217195500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217195000 +0200" stop="20191217195500 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217195500 +0200" stop="20191217200000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217195500 +0200" stop="20191217200000 +0200" channel="TRT Haber">
     <title lang="tr">Ana Habere Doğru</title>
   </programme>
-  <programme start="20191217200000 +0200" stop="20191217205500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217200000 +0200" stop="20191217205500 +0200" channel="TRT Haber">
     <title lang="tr">Ana Haber 20</title>
   </programme>
-  <programme start="20191217205500 +0200" stop="20191217210000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217205500 +0200" stop="20191217210000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217210000 +0200" stop="20191217215500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217210000 +0200" stop="20191217215500 +0200" channel="TRT Haber">
     <title lang="tr">Birinci Sayfa</title>
   </programme>
-  <programme start="20191217215500 +0200" stop="20191217220000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217215500 +0200" stop="20191217220000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217220000 +0200" stop="20191217225500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217220000 +0200" stop="20191217225500 +0200" channel="TRT Haber">
     <title lang="tr">Stratejik Analiz</title>
   </programme>
-  <programme start="20191217225500 +0200" stop="20191217230000 +0200" channel="TRTHaber.tr">
+  <programme start="20191217225500 +0200" stop="20191217230000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191217230000 +0200" stop="20191218005500 +0200" channel="TRTHaber.tr">
+  <programme start="20191217230000 +0200" stop="20191218005500 +0200" channel="TRT Haber">
     <title lang="tr">Gece Bakışı</title>
   </programme>
-  <programme start="20191218005500 +0200" stop="20191218010000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218005500 +0200" stop="20191218010000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218010000 +0200" stop="20191218025500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218010000 +0200" stop="20191218025500 +0200" channel="TRT Haber">
     <title lang="tr">Gün Sonu</title>
   </programme>
-  <programme start="20191218025500 +0200" stop="20191218030000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218025500 +0200" stop="20191218030000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218030000 +0200" stop="20191218035500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218030000 +0200" stop="20191218035500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 03</title>
   </programme>
-  <programme start="20191218035500 +0200" stop="20191218040000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218035500 +0200" stop="20191218040000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218040000 +0200" stop="20191218042500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218040000 +0200" stop="20191218042500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 04</title>
   </programme>
-  <programme start="20191218042500 +0200" stop="20191218045500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218042500 +0200" stop="20191218045500 +0200" channel="TRT Haber">
     <title lang="tr">Ömür Dediğin</title>
   </programme>
-  <programme start="20191218045500 +0200" stop="20191218050000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218045500 +0200" stop="20191218050000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218050000 +0200" stop="20191218055500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218050000 +0200" stop="20191218055500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 05</title>
   </programme>
-  <programme start="20191218055500 +0200" stop="20191218060000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218055500 +0200" stop="20191218060000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218060000 +0200" stop="20191218093000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">TRTHaber.tr'de Dün Bugün</title>
+  <programme start="20191218060000 +0200" stop="20191218093000 +0200" channel="TRT Haber">
+    <title lang="tr">TRT HABER'de Dün Bugün</title>
   </programme>
-  <programme start="20191218093000 +0200" stop="20191218095500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218093000 +0200" stop="20191218095500 +0200" channel="TRT Haber">
     <title lang="tr">Ekonomi 7/24</title>
   </programme>
-  <programme start="20191218095500 +0200" stop="20191218100000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218095500 +0200" stop="20191218100000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218100000 +0200" stop="20191218104000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218100000 +0200" stop="20191218104000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191218104000 +0200" stop="20191218105500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218104000 +0200" stop="20191218105500 +0200" channel="TRT Haber">
     <title lang="tr">Dünya Gündemi.</title>
   </programme>
-  <programme start="20191218105500 +0200" stop="20191218110000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218105500 +0200" stop="20191218110000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218110000 +0200" stop="20191218114000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218110000 +0200" stop="20191218114000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191218114000 +0200" stop="20191218115500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218114000 +0200" stop="20191218115500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191218115500 +0200" stop="20191218120000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218115500 +0200" stop="20191218120000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218120000 +0200" stop="20191218124000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218120000 +0200" stop="20191218124000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191218124000 +0200" stop="20191218125500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218124000 +0200" stop="20191218125500 +0200" channel="TRT Haber">
     <title lang="tr">İşitme Engelliler Haber Bülteni</title>
   </programme>
-  <programme start="20191218125500 +0200" stop="20191218130000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218125500 +0200" stop="20191218130000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218130000 +0200" stop="20191218134000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218130000 +0200" stop="20191218134000 +0200" channel="TRT Haber">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20191218134000 +0200" stop="20191218135500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218134000 +0200" stop="20191218135500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191218135500 +0200" stop="20191218140000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218135500 +0200" stop="20191218140000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218140000 +0200" stop="20191218145500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218140000 +0200" stop="20191218145500 +0200" channel="TRT Haber">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20191218145500 +0200" stop="20191218150000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218145500 +0200" stop="20191218150000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218150000 +0200" stop="20191218154000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218150000 +0200" stop="20191218154000 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191218154000 +0200" stop="20191218155500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218154000 +0200" stop="20191218155500 +0200" channel="TRT Haber">
     <title lang="tr">Memleketten Haber Var.</title>
   </programme>
-  <programme start="20191218155500 +0200" stop="20191218160000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218155500 +0200" stop="20191218160000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218160000 +0200" stop="20191218165500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218160000 +0200" stop="20191218165500 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191218165500 +0200" stop="20191218170000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218165500 +0200" stop="20191218170000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218170000 +0200" stop="20191218175500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218170000 +0200" stop="20191218175500 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191218175500 +0200" stop="20191218180000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218175500 +0200" stop="20191218180000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218180000 +0200" stop="20191218185000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218180000 +0200" stop="20191218185000 +0200" channel="TRT Haber">
     <title lang="tr">Sıcak Haber</title>
   </programme>
-  <programme start="20191218185000 +0200" stop="20191218185500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218185000 +0200" stop="20191218185500 +0200" channel="TRT Haber">
     <title lang="tr">Piyasa Raporu</title>
   </programme>
-  <programme start="20191218185500 +0200" stop="20191218190000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218185500 +0200" stop="20191218190000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218190000 +0200" stop="20191218195000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218190000 +0200" stop="20191218195000 +0200" channel="TRT Haber">
     <title lang="tr">Sıcak Haber</title>
   </programme>
-  <programme start="20191218195000 +0200" stop="20191218195500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218195000 +0200" stop="20191218195500 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218195500 +0200" stop="20191218200000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218195500 +0200" stop="20191218200000 +0200" channel="TRT Haber">
     <title lang="tr">Ana Habere Doğru</title>
   </programme>
-  <programme start="20191218200000 +0200" stop="20191218205500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218200000 +0200" stop="20191218205500 +0200" channel="TRT Haber">
     <title lang="tr">Ana Haber 20</title>
   </programme>
-  <programme start="20191218205500 +0200" stop="20191218210000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218205500 +0200" stop="20191218210000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218210000 +0200" stop="20191218215500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218210000 +0200" stop="20191218215500 +0200" channel="TRT Haber">
     <title lang="tr">Birinci Sayfa</title>
   </programme>
-  <programme start="20191218215500 +0200" stop="20191218220000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218215500 +0200" stop="20191218220000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218220000 +0200" stop="20191218225500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218220000 +0200" stop="20191218225500 +0200" channel="TRT Haber">
     <title lang="tr">Siyaset Artı</title>
   </programme>
-  <programme start="20191218225500 +0200" stop="20191218230000 +0200" channel="TRTHaber.tr">
+  <programme start="20191218225500 +0200" stop="20191218230000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191218230000 +0200" stop="20191219005500 +0200" channel="TRTHaber.tr">
+  <programme start="20191218230000 +0200" stop="20191219005500 +0200" channel="TRT Haber">
     <title lang="tr">Gece Bakışı</title>
   </programme>
-  <programme start="20191219005500 +0200" stop="20191219010000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219005500 +0200" stop="20191219010000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219010000 +0200" stop="20191219025500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219010000 +0200" stop="20191219025500 +0200" channel="TRT Haber">
     <title lang="tr">Gün Sonu</title>
   </programme>
-  <programme start="20191219025500 +0200" stop="20191219030000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219025500 +0200" stop="20191219030000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219030000 +0200" stop="20191219035500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219030000 +0200" stop="20191219035500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 03</title>
   </programme>
-  <programme start="20191219035500 +0200" stop="20191219040000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219035500 +0200" stop="20191219040000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219040000 +0200" stop="20191219042000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219040000 +0200" stop="20191219042000 +0200" channel="TRT Haber">
     <title lang="tr">Haber 04</title>
   </programme>
-  <programme start="20191219042000 +0200" stop="20191219045500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219042000 +0200" stop="20191219045500 +0200" channel="TRT Haber">
     <title lang="tr">Vapurda Çay Simit Sohbet</title>
   </programme>
-  <programme start="20191219045500 +0200" stop="20191219050000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219045500 +0200" stop="20191219050000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219050000 +0200" stop="20191219055500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219050000 +0200" stop="20191219055500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 05</title>
   </programme>
-  <programme start="20191219055500 +0200" stop="20191219060000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219055500 +0200" stop="20191219060000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219060000 +0200" stop="20191219093000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">TRTHaber.tr'de Dün Bugün</title>
+  <programme start="20191219060000 +0200" stop="20191219093000 +0200" channel="TRT Haber">
+    <title lang="tr">TRT HABER'de Dün Bugün</title>
   </programme>
-  <programme start="20191219093000 +0200" stop="20191219095500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219093000 +0200" stop="20191219095500 +0200" channel="TRT Haber">
     <title lang="tr">Ekonomi 7/24</title>
   </programme>
-  <programme start="20191219095500 +0200" stop="20191219100000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219095500 +0200" stop="20191219100000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219100000 +0200" stop="20191219104000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219100000 +0200" stop="20191219104000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191219104000 +0200" stop="20191219105500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219104000 +0200" stop="20191219105500 +0200" channel="TRT Haber">
     <title lang="tr">Dünya Gündemi.</title>
   </programme>
-  <programme start="20191219105500 +0200" stop="20191219110000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219105500 +0200" stop="20191219110000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219110000 +0200" stop="20191219114000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219110000 +0200" stop="20191219114000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191219114000 +0200" stop="20191219115500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219114000 +0200" stop="20191219115500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191219115500 +0200" stop="20191219120000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219115500 +0200" stop="20191219120000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219120000 +0200" stop="20191219124000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219120000 +0200" stop="20191219124000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191219124000 +0200" stop="20191219125500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219124000 +0200" stop="20191219125500 +0200" channel="TRT Haber">
     <title lang="tr">İşitme Engelliler Haber Bülteni</title>
   </programme>
-  <programme start="20191219125500 +0200" stop="20191219130000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219125500 +0200" stop="20191219130000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219130000 +0200" stop="20191219134000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219130000 +0200" stop="20191219134000 +0200" channel="TRT Haber">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20191219134000 +0200" stop="20191219135500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219134000 +0200" stop="20191219135500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191219135500 +0200" stop="20191219140000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219135500 +0200" stop="20191219140000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219140000 +0200" stop="20191219145500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219140000 +0200" stop="20191219145500 +0200" channel="TRT Haber">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20191219145500 +0200" stop="20191219150000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219145500 +0200" stop="20191219150000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219150000 +0200" stop="20191219154000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219150000 +0200" stop="20191219154000 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191219154000 +0200" stop="20191219155500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219154000 +0200" stop="20191219155500 +0200" channel="TRT Haber">
     <title lang="tr">Memleketten Haber Var.</title>
   </programme>
-  <programme start="20191219155500 +0200" stop="20191219160000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219155500 +0200" stop="20191219160000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219160000 +0200" stop="20191219165500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219160000 +0200" stop="20191219165500 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191219165500 +0200" stop="20191219170000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219165500 +0200" stop="20191219170000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219170000 +0200" stop="20191219175500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219170000 +0200" stop="20191219175500 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191219175500 +0200" stop="20191219180000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219175500 +0200" stop="20191219180000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219180000 +0200" stop="20191219185000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219180000 +0200" stop="20191219185000 +0200" channel="TRT Haber">
     <title lang="tr">Sıcak Haber</title>
   </programme>
-  <programme start="20191219185000 +0200" stop="20191219185500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219185000 +0200" stop="20191219185500 +0200" channel="TRT Haber">
     <title lang="tr">Piyasa Raporu</title>
   </programme>
-  <programme start="20191219185500 +0200" stop="20191219190000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219185500 +0200" stop="20191219190000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219190000 +0200" stop="20191219195000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219190000 +0200" stop="20191219195000 +0200" channel="TRT Haber">
     <title lang="tr">Sıcak Haber</title>
   </programme>
-  <programme start="20191219195000 +0200" stop="20191219195500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219195000 +0200" stop="20191219195500 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219195500 +0200" stop="20191219200000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219195500 +0200" stop="20191219200000 +0200" channel="TRT Haber">
     <title lang="tr">Ana Habere Doğru</title>
   </programme>
-  <programme start="20191219200000 +0200" stop="20191219205500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219200000 +0200" stop="20191219205500 +0200" channel="TRT Haber">
     <title lang="tr">Ana Haber 20</title>
   </programme>
-  <programme start="20191219205500 +0200" stop="20191219210000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219205500 +0200" stop="20191219210000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219210000 +0200" stop="20191219215500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219210000 +0200" stop="20191219215500 +0200" channel="TRT Haber">
     <title lang="tr">Birinci Sayfa</title>
   </programme>
-  <programme start="20191219215500 +0200" stop="20191219220000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219215500 +0200" stop="20191219220000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219220000 +0200" stop="20191219225500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219220000 +0200" stop="20191219225500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 22</title>
   </programme>
-  <programme start="20191219225500 +0200" stop="20191219230000 +0200" channel="TRTHaber.tr">
+  <programme start="20191219225500 +0200" stop="20191219230000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191219230000 +0200" stop="20191220005500 +0200" channel="TRTHaber.tr">
+  <programme start="20191219230000 +0200" stop="20191220005500 +0200" channel="TRT Haber">
     <title lang="tr">Gece Bakışı</title>
   </programme>
-  <programme start="20191220005500 +0200" stop="20191220010000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220005500 +0200" stop="20191220010000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220010000 +0200" stop="20191220025500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220010000 +0200" stop="20191220025500 +0200" channel="TRT Haber">
     <title lang="tr">Gün Sonu</title>
   </programme>
-  <programme start="20191220025500 +0200" stop="20191220030000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220025500 +0200" stop="20191220030000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220030000 +0200" stop="20191220035500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220030000 +0200" stop="20191220035500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 03</title>
   </programme>
-  <programme start="20191220035500 +0200" stop="20191220040000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220035500 +0200" stop="20191220040000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220040000 +0200" stop="20191220042500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220040000 +0200" stop="20191220042500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 04</title>
   </programme>
-  <programme start="20191220042500 +0200" stop="20191220045500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220042500 +0200" stop="20191220045500 +0200" channel="TRT Haber">
     <title lang="tr">Emek İster</title>
   </programme>
-  <programme start="20191220045500 +0200" stop="20191220050000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220045500 +0200" stop="20191220050000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220050000 +0200" stop="20191220055500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220050000 +0200" stop="20191220055500 +0200" channel="TRT Haber">
     <title lang="tr">Haber 05</title>
   </programme>
-  <programme start="20191220055500 +0200" stop="20191220060000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220055500 +0200" stop="20191220060000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220060000 +0200" stop="20191220093000 +0200" channel="TRTHaber.tr">
-    <title lang="tr">TRTHaber.tr'de Dün Bugün</title>
+  <programme start="20191220060000 +0200" stop="20191220093000 +0200" channel="TRT Haber">
+    <title lang="tr">TRT HABER'de Dün Bugün</title>
   </programme>
-  <programme start="20191220093000 +0200" stop="20191220095500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220093000 +0200" stop="20191220095500 +0200" channel="TRT Haber">
     <title lang="tr">Ekonomi 7/24</title>
   </programme>
-  <programme start="20191220095500 +0200" stop="20191220100000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220095500 +0200" stop="20191220100000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220100000 +0200" stop="20191220104000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220100000 +0200" stop="20191220104000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191220104000 +0200" stop="20191220105500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220104000 +0200" stop="20191220105500 +0200" channel="TRT Haber">
     <title lang="tr">Dünya Gündemi.</title>
   </programme>
-  <programme start="20191220105500 +0200" stop="20191220110000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220105500 +0200" stop="20191220110000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220110000 +0200" stop="20191220114000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220110000 +0200" stop="20191220114000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191220114000 +0200" stop="20191220115500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220114000 +0200" stop="20191220115500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191220115500 +0200" stop="20191220120000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220115500 +0200" stop="20191220120000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220120000 +0200" stop="20191220124000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220120000 +0200" stop="20191220124000 +0200" channel="TRT Haber">
     <title lang="tr">Satırbaşı Haber.</title>
   </programme>
-  <programme start="20191220124000 +0200" stop="20191220125500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220124000 +0200" stop="20191220125500 +0200" channel="TRT Haber">
     <title lang="tr">İşitme Engelliler Haber Bülteni</title>
   </programme>
-  <programme start="20191220125500 +0200" stop="20191220130000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220125500 +0200" stop="20191220130000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220130000 +0200" stop="20191220134000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220130000 +0200" stop="20191220134000 +0200" channel="TRT Haber">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20191220134000 +0200" stop="20191220135500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220134000 +0200" stop="20191220135500 +0200" channel="TRT Haber">
     <title lang="tr">Spor</title>
   </programme>
-  <programme start="20191220135500 +0200" stop="20191220140000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220135500 +0200" stop="20191220140000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220140000 +0200" stop="20191220145500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220140000 +0200" stop="20191220145500 +0200" channel="TRT Haber">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
-  <programme start="20191220145500 +0200" stop="20191220150000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220145500 +0200" stop="20191220150000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220150000 +0200" stop="20191220154000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220150000 +0200" stop="20191220154000 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191220154000 +0200" stop="20191220155500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220154000 +0200" stop="20191220155500 +0200" channel="TRT Haber">
     <title lang="tr">Memleketten Haber Var.</title>
   </programme>
-  <programme start="20191220155500 +0200" stop="20191220160000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220155500 +0200" stop="20191220160000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220160000 +0200" stop="20191220165500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220160000 +0200" stop="20191220165500 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191220165500 +0200" stop="20191220170000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220165500 +0200" stop="20191220170000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220170000 +0200" stop="20191220175500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220170000 +0200" stop="20191220175500 +0200" channel="TRT Haber">
     <title lang="tr">Günün İçinden</title>
   </programme>
-  <programme start="20191220175500 +0200" stop="20191220180000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220175500 +0200" stop="20191220180000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220180000 +0200" stop="20191220185000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220180000 +0200" stop="20191220185000 +0200" channel="TRT Haber">
     <title lang="tr">Sıcak Haber</title>
   </programme>
-  <programme start="20191220185000 +0200" stop="20191220190000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220185000 +0200" stop="20191220190000 +0200" channel="TRT Haber">
     <title lang="tr">Piyasa Raporu</title>
   </programme>
-  <programme start="20191220190000 +0200" stop="20191220195000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220190000 +0200" stop="20191220195000 +0200" channel="TRT Haber">
     <title lang="tr">Beşinci Gün</title>
   </programme>
-  <programme start="20191220195000 +0200" stop="20191220195500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220195000 +0200" stop="20191220195500 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220195500 +0200" stop="20191220200000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220195500 +0200" stop="20191220200000 +0200" channel="TRT Haber">
     <title lang="tr">Ana Habere Doğru</title>
   </programme>
-  <programme start="20191220200000 +0200" stop="20191220205500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220200000 +0200" stop="20191220205500 +0200" channel="TRT Haber">
     <title lang="tr">Ana Haber 20</title>
   </programme>
-  <programme start="20191220205500 +0200" stop="20191220210000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220205500 +0200" stop="20191220210000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220210000 +0200" stop="20191220215500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220210000 +0200" stop="20191220215500 +0200" channel="TRT Haber">
     <title lang="tr">Birinci Sayfa</title>
   </programme>
-  <programme start="20191220215500 +0200" stop="20191220220000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220215500 +0200" stop="20191220220000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220220000 +0200" stop="20191220225500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220220000 +0200" stop="20191220225500 +0200" channel="TRT Haber">
     <title lang="tr">Sıcak Nokta</title>
   </programme>
-  <programme start="20191220225500 +0200" stop="20191220230000 +0200" channel="TRTHaber.tr">
+  <programme start="20191220225500 +0200" stop="20191220230000 +0200" channel="TRT Haber">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20191220230000 +0200" stop="20191221005500 +0200" channel="TRTHaber.tr">
+  <programme start="20191220230000 +0200" stop="20191221005500 +0200" channel="TRT Haber">
     <title lang="tr">Gece Bakışı</title>
   </programme>
   <programme start="20191215060000 +0200" stop="20191215070000 +0200" channel="TRT Kurdî">
